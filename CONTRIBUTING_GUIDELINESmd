@@ -101,11 +101,11 @@ We want your work to be readable by others; therefore, we encourage you to note 
 
 We want your work to be readable by others; therefore, we encourage you to note the following:
 
-- Create a folder with a meaningful repository name (If Digital Clock is submitted for example, the Folder Name should be "Digital Clock" and the File Name as "digital_clock.py")
+- Create a folder with a meaningful repository name (If Merge Sort is submitted for example, it should go into 'Sorting' folder and the File Name should be as "merge_sort.py")
 - File extension for code should be `.py`. 
 - Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure you have created for your project. If you want to,  please contact before doing so.
-- The README of the scrip contributing should be concise and clear about what the project is about and what it does and should be added up in the script with comments.
+- The README of the scrip contributing should be concise and clear about what the project is about, what it does and test cases. These should be added up in the script with comments.
 - It should be documented briefly enough to let readers understand.
 - If you have modified/added code work, make sure the script compiles before submitting.
 - If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
