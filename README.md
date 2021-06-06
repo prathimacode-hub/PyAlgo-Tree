@@ -111,7 +111,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 * If you want to contribute the script, it's preferable that you create a new issue before making a PR and link your PR to that issue.
 * If you have modified/added code, make sure the code compiles before submitting.
 * Strictly use snake_case (underscore_separated) in your file_name and push it in the correct folder.
-* Add detailed comments and explain the script elaborately to help us know what the Script is all about.
+* Add detailed comments and explain the script elaborately with test cases to help us know what the Script is all about.
 * Do not update the **[README.md](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/README.md).**
 
 
