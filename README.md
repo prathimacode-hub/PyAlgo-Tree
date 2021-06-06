@@ -158,10 +158,6 @@ If you like this project, consider giving a ⭐ to this project and share it as 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
 
-<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
-</td>
-
-
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through social handles.
