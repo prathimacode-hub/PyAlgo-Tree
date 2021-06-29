@@ -39,6 +39,8 @@ If you find this repo useful or it did help you in enhancing your python knowled
 
 <h3> Language - Python</h3>
 
+Are you new to Python? You can gain strong foundations on Basic Python through this [repo](https://github.com/prathimacode-hub/Learn-Python-For-Beginners).
+
 To make your learning journey more fruitful, I had created an open source project of [Awesome Python Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts). Do add your projects to enhance your learning experience. It has everything to offer for you and is a one stop place for all kinds of python scripts.
 
 Drop me a private message, if this project enriched your skills better and made you progress in building up your own projects in python. Any queries, feel free to ask. I would be happy to assist you.
