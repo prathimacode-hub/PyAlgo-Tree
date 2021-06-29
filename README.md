@@ -61,7 +61,7 @@ Drop me a private message, if this project enriched your skills better and made 
 - [Conversions](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Conversions)
 - [Cryptography](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Cryptography)
 - [Data Structures](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Data%20Structures)
-- [Deeo Learning](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Deep%20Learning)
+- [Deep Learning](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Deep%20Learning)
 - [Digital Image Processing](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Digital%20Image%20Processing)
 - [Dynamic Programming](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Dynamic%20Programming)
 - [Electronics](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Electronics)
