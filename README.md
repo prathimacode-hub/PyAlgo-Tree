@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![Maintenance](https://img.shields.io/maintenance/yes/2021) </p> 
 
 
-<h2> 🎀Repository</h2>
+<h2> 📌Repository</h2>
 
 This project aims to be a finest hub of various data structures and algorithms you need to know in python across different topics and fields.  
 
@@ -97,6 +97,8 @@ Drop me a private message, if this project enriched your skills better and made 
 
 If you worked on or want to initiate a your script and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING_GUIDELINES](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/CONTRIBUTING_GUIDELINES.md)👩‍💻
 
+When raising an issue, do make sure to mention the kind of script, project title, short description of the project and what it does and the purpose of it. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
+
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
@@ -146,9 +148,6 @@ This project follows the MIT [License](LICENSE)
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-
-<a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 
 <h2>⭐Give this Project a Star</h2>
