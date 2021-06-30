@@ -119,6 +119,16 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 * Do not update the **[README.md](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/README.md).**
 
 
+<h2>🛠Templates to Follow</h2>
+
+- [Feature request](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/issue_template/feature_request.md)
+- [Bug Report](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/issue_template/bug_report.md)
+- [Pull Request](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/pullrequest_template.md)
+- [README](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/readme_template.md)
+
+**Note** : One should follow these templates while creating a new issue or pull request. 
+
+
 <h2>👨‍💻 Workflow:</h2>
 
 - Fork the repository
