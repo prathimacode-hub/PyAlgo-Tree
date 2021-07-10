@@ -131,7 +131,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
 
 
-- **For algorithms based on basic python skills, the project structure should look like this :**
+- **For algorithms based on basic python skills, the project structure should look like this:**
 
 Create a folder of your project title. (Example : If you want to add an algorithm of heap sort, then project name should be "Heap Sort" and file name as "heap_sort.py")
 
@@ -148,7 +148,7 @@ The project repository you had created would have :
 **Related files** - The other additional and related files would be added up in "Related" folder.
 
 
-- **For algorithms based on Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence etc, the project should look like this :**
+- **For algorithms based on Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence etc, the project should look like this:**
 
 Create a folder of your project title. (Example : If you want to add an algorithm of Decision Tree Classifier, then project name should be "Decision Tree Classifier" and file name as "decision_tree_classifier.py")
 
@@ -156,9 +156,13 @@ The project repository you had created would have :
 
 **Dataset** - This folder would have a .csv file.
 
-**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/README/readme2_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project
+**Model** - This folder would have your algorithm file (that is .ipynb file). Other than algorithm file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/README/readme2_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the algorithm
 
-Elaborate your README briefly about how it works by showing step by step procedure.
+**Images** - This folder would have all images added, be it screenshots or step by step process images.
+
+**Related files** - The other additional and related files would be added up in "Related" folder.
+
+Elaborate your **README** briefly about how it works by showing step by step procedure.
 
 
 <h2>🛠Templates to Follow</h2>
