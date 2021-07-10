@@ -37,8 +37,8 @@ That's it! All the steps to the goal state (if found) will be listed.
 <img width = 300 height = 600 src="../Water Jug Problem/Images/ss1.png">
 <img width = 300 height = 600 src="../Water Jug Problem/Images/ss2.png">
 <img width = 300 height = 600 src="../Water Jug Problem/Images/ss3.png">
-<img width = 300 height = 600 src="../Water Jug Problem/Images/ss4.png">
+<img width = 300 height = 200 src="../Water Jug Problem/Images/ss4.png">
 
-## Author(s)
+## Author
 
 [Manasi Chhibber](https://github.com/Manasi2001)
