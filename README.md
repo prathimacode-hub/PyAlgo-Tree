@@ -202,6 +202,32 @@ This project is a part of these open source programs.
 </table>
 
 
+<h2>🙌Levels & Points (LGMSOC)</h2>
+
+<table>
+  <tr>
+    <th>Level</th>
+    <th>Points</th> 
+  </tr>
+  <tr>
+    <td>Level 0</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Level 1</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Level 2</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Level 3</td>
+    <td>40</td>
+  </tr>
+</table>
+
+
 <h2>✨Hall Of Fame</h2>   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
@@ -210,6 +236,9 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=prathimacode-hub/PyAlgo-Tree" />
+</a>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
