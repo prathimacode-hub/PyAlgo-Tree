@@ -202,7 +202,7 @@ This project is a part of these open source programs.
 </table>
 
 
-<h2>🙌Levels & Points (LGMSOC)</h2>
+<h2>🙌Levels & Points (DCP)</h2>
 
 <table>
   <tr>
