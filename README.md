@@ -139,7 +139,7 @@ The project repository you had created would have :
 
 **file_name.py** - This python file is the project you have worked upon.
 
-**README.md** - This file is must included to get good understanding of the project (Elaborate it briefly about how it works using [README](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/readme1_template.md) template).
+**README.md** - This file is must included to get good understanding of the project (Elaborate it briefly about how it works using [README](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/README/readme1_template.md) template).
 
 **requirements.txt** - In this file, you should add all the libraries you had included in your project 
 
@@ -156,7 +156,7 @@ The project repository you had created would have :
 
 **Dataset** - This folder would have a .csv file.
 
-**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/readme2_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project
+**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/README/readme2_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project
 
 Elaborate your README briefly about how it works by showing step by step procedure.
 
