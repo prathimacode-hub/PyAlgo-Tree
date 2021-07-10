@@ -74,8 +74,7 @@ Iteration 4:-
 Just clone the repository .
 
 ## Output
-![Screenshot_20210710-181018_Chrome](https://user-images.githubusercontent.com/69195262/125164240-d8099d80-e1ae-11eb-8b21-ef61ac992e56.jpg)
-
+![](Images/output.jpg)
 
 
 ## Author(s)
