@@ -20,14 +20,23 @@ Given Problem: You are given a 'm' liter jug and a 'n' liter jug where '0<m<n'. 
 ## Workflow of the Project
 
 Description of functions used in the code and their purpose: 
+
 get_search_type --> This method accepts an input for asking the choice for type of searching required i.e. BFS or DFS.
+
 get_jugs --> This method accept volumes of the jugs as an input from the user.
+
 get_goal --> This method returns the desired amount of water as goal.
+
 is_goal --> This method checks whether the given path matches the goal node.
+
 been_there --> This method validates whether the given node is already visited.
+
 next_transitions --> This method returns the list of all possible transitions.
+
 print_path --> This method prints the goal path.
+
 search --> This method searches for a path between starting node and goal node.
+
 After the desired values are entered by the user, the 'search' function is called to find the path/solution (if one exists).
 
 ## Compilation Steps
