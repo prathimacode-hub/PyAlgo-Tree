@@ -24,6 +24,6 @@
 ### Output & Input
 ![heap_sort](https://user-images.githubusercontent.com/52855622/125182375-2b213600-e22b-11eb-8bb8-6ef7b81a95ba.png)
 
-### Author(s)
+### Author
 
 [Thejaswin S](https://github.com/thejaswin123)
