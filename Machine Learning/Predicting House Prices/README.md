@@ -32,6 +32,7 @@ Understanding implementations of Multiple Linear Regression Model using dataset!
 ***************************************
 ## Detailed Explanation of the script
 **Input Format**
+
 The first line contains `2` space-separated integers, `F` (the number of observed features) and `N` (the number of rows/houses for which Charlie has noted both the features and price per square foot).
 The `N` subsequent lines each contain `F + 1` space-separated floating-point numbers describing a row in the table; the first  elements are the noted features for a house, and the very last element is its price per square foot.
 
