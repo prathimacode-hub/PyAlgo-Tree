@@ -14,12 +14,15 @@ To get a understanding about linear search.
 
 - It is a python program for linear search Algorithm. 
 - It is written in a way that it takes user input.
+- It can be used to search an element from an array,list etc.
 
 
 ## Workflow of the Project
 
-- First a function is written to perform linear Search.
-- Then outside the function user input is taken.
+- First a function is written to perform linear Search,which 
+traverses the whole array and then finds the element.
+- Then outside the function user is prompted to input array size,array
+elements and element to be searched.
 
 
 
