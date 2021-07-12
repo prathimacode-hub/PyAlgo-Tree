@@ -1,0 +1,12 @@
+To run this codebase you need to install a python library which is called Sklearn
+
+Required library :
+Sklearn
+
+It is an in-built library if you use Anaconda Navigator or, Jupyter Notebook. Otherwise if you find that this library is not installed in your system, then do the following steps.
+
+1. Open Jupyter Notebook
+2. select any cell and write this code 
+   !pip install sklearn
+3. This will take few seconds to install
+4. Bang! your system is ready to run the code!
