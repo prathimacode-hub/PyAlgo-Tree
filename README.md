@@ -261,7 +261,7 @@ This project follows the MIT [License](LICENSE)
 <table>
   <tr>
 <td align="center"><a href="https://github.com/Lourdemary"><img src="https://avatars.githubusercontent.com/u/60435111?v=4" width="80px;" alt=""/><br /><sub><b>Lourde Mary T</b></sub></a></td>
-<td align="center"><a href="https://github.com/ankitapuri"><img src="https://avatars.githubusercontent.com/u/54734002?v=4" width="80px;" alt=""/><br /><sub><b>Lourde Mary T</b></sub></a></td>
+<td align="center"><a href="https://github.com/ankitapuri"><img src="https://avatars.githubusercontent.com/u/54734002?v=4" width="80px;" alt=""/><br /><sub><b>Ankita Puri</b></sub></a></td>
   </tr>
 </table>
 
