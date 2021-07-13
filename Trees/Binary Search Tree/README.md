@@ -27,19 +27,55 @@ Binary Search Tree is a special type of binary tree where:
 2. The value of all the nodes in the right sub-tree is greater than value of the root.
 3. This rule will be recursively applied to all the left and right sub-trees of the root.
 
+Illustration to insert in below tree: 
+1. Start from the root. 
+2. Compare the inserting element with root, if less than root, then recurse for left, else recurse for right. 
+3. After reaching the end, just insert that node at left(if less than current) else right. 
+
+         100                               100
+        /   \        Insert 40            /    \
+      20     500    --------->          20     500 
+     /  \                              /  \  
+    10   30                           10   30
+                                              \   
+                                              40
+
+llustration to search in tree: 
+1. Start from the root. 
+2. Compare the searching element with root, if less than root, then recurse for left, else recurse for right. 
+3. If the element to search is found anywhere, retun the element else print element not found. 
+
+         100                               
+        /   \        search 20            
+      20     500    --------->      Found 20     
+     /  \                               
+    10   30 
+
+llustration to delete in below tree: 
+1. Start from the root. 
+2. Compare the deleting element with root, if less than root, then recurse for left, else recurse for right. 
+3. If the element to delete is found anywhere, delete the element else print element not found. 
+
+        
+              50                            60
+           /     \         delete(50)      /   \
+          40      70       --------->    40    70 
+                 /  \                            \ 
+                60   80                           80
+
 ### Setup instructions
 Just clone the repository .
 
 ### Output
-![](output1.png)
+![](\images\output1.png)
 
-![](output2.png)
+![](\images\output2.png)
 
-![](output3.png)
+![](\images\output3.png)
 
-![](output4.png)
+![](\images\output4.png)
 
-![](output5.png)
+![](\images\output5.png)
 
 ### Author(s)
 Neha Jha
