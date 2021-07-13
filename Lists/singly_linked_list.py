@@ -290,14 +290,14 @@ if __name__ == '__main__':
     print('Creating Linked List with range of 5,')
     s = SinglyLinkedList(range(5))
     print(s)
-    print('Printing Individual Elements:')
+    print('\nPrinting Individual Elements:')
     for el in s:
         print(el)
-    print('Changing value of index 1,')
+    print('\nChanging value of index 1,')
     s[1] = 99
     print(s)
-    print(f'Popping {s.pop()},')
+    print(f'\nPopping {s.pop()},')
     print(s)
-    print('Clearing the list,')
+    print('\nClearing the list,')
     s.clear()
     print(s)
