@@ -25,6 +25,14 @@ Run the script, after that :
 # Output
 
 ![image](https://user-images.githubusercontent.com/70155541/125498461-65c45be2-6e91-431a-8c6b-fd15d87109e5.png)
+
+
 ![output 2](https://user-images.githubusercontent.com/70155541/125504426-4e89c8ed-3c46-40da-9e9b-7c3e8c40b2c3.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/70155541/125504812-efce8e1b-fefe-4c67-bd1a-f0d0da1ac9e8.png)
+
+
+
 ![output 4](https://user-images.githubusercontent.com/70155541/125506091-ee1d9d79-ff56-429a-81ad-d4514f8aaced.png)
