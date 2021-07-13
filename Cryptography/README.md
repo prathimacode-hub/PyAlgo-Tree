@@ -23,3 +23,5 @@ Run the script, after that :
 
 
 # Output
+
+![image](https://user-images.githubusercontent.com/70155541/125498461-65c45be2-6e91-431a-8c6b-fd15d87109e5.png)
