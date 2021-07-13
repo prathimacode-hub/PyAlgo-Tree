@@ -1,2 +1,2 @@
-## Check out all the amazing "Crytptography " scripts here:
-- [Caesar Cipher](Cryptography/Caesar Cipher/caesar_cipher.py)
+## Check out all the amazing "Cryptography " scripts here:
+- [Caesar Cipher](Cryptography/CaesarCipher/caesar_cipher.py)
