@@ -301,4 +301,3 @@ if __name__ == '__main__':
     print('Clearing the list,')
     s.clear()
     print(s)
-    
