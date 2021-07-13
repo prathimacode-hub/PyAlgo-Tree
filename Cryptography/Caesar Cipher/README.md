@@ -49,8 +49,8 @@ After the script is run, enter:
 
 ## Output
 
-<img width = 300 height = 270 src="../Caesar_Cipher/Images/DecryptedString.png">
-<img width = 300 height = 270 src="../Caesar_Cipher/Images/EncryptedStringOutput.png">
+<img width = 300 height = 270 src="../Caesar Cipher/Images/DecryptedString.png">
+<img width = 300 height = 270 src="../Caesar Cipher/Images/EncryptedStringOutput.png">
 
 
 ## Author
