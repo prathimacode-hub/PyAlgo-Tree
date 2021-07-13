@@ -1,6 +1,49 @@
-The Caesar Cipher was an early substitution cipher. 
-In the Caesar Cipher, each character is shifted three places up. Therefore, A becomes D and B becomes E, etc…
-A Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely known encryption techniques. 
-It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. 
-For example, with a left shift of 3, D would be replaced by A, E would become B, and so on. 
-The method is named after Julius Caesar, who used it in his private correspondence.
+# Caesar_Cipher
+
+## Aim
+
+The aim is to build a Caesar Cipher Algorithm
+
+
+## Purpose
+
+To create a Encryption/Decryption program which uses Caesar_Cipher Technique
+
+
+## Short description of package/script
+
+- The problem is solved using Caesar Substitution algorithm
+- We use Python libraries Random while encryption
+
+
+## Workflow of the Project
+
+Description of functions used in the code and their purpose:
+
+decrypt --> Method for decrypting the inputted encrypted code
+
+encrypt --> Method to encrypt the input string
+
+
+
+After the desired choice is entered by the user, the  functions gain control and process accordingly
+
+
+## Compilation Steps
+
+After the script is run, enter:
+
+1. Choose what you want to do encrypt or decrypt
+2. Functions encrypt or decrypt accordingly.
+
+
+
+## Output
+
+<img width = 300 height = 600 src="..Cryptography/caesar_cipher/images/DecryptedString.png">
+<img width = 300 height = 600 src="..Cryptography/caesar_cipher/images/EncryptedStringOutput.png">
+
+
+## Author
+
+[Shiwansh Raj](https://github.com/photon149)
