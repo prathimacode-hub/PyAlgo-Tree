@@ -25,3 +25,7 @@ Run the script, after that :
 
 # Output
 
+<img width = 300 height = 100 src="../Palindrome Check/Images/Palindrome_Check_1.png">
+<img width = 300 height = 100 src="../Palindrome Check/Images/Palindrome_Check_2.png">
+<img width = 300 height = 100 src="../Palindrome Check/Images/Palindrome_Check_3.png">
+<img width = 300 height = 100 src="../Palindrome Check/Images/Palindrome_Check_4.png">
