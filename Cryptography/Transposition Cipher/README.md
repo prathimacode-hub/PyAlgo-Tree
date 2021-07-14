@@ -40,9 +40,9 @@ Eg) Key=5 and mssg= 'Your roommate is a spy'
 
 # Output
 
-<img width = 300 height = 270 src="../Cryptography/Transposition Cipher/Images/output 1.png">
-<img width = 300 height = 270 src="../Cryptography/Transposition Cipher/Images/output 2.png">
-<img width = 300 height = 270 src="../Cryptography/Transposition Cipher/Images/output 3.png">
+<img width = 385 height = 188 src="../Cryptography/Transposition Cipher/Images/output 1.png">
+<img width = 385 height = 188 src="../Cryptography/Transposition Cipher/Images/output 2.png">
+<img width = 385 height = 188 src="../Cryptography/Transposition Cipher/Images/output 3.png">
 
 
 
