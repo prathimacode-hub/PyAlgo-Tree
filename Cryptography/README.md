@@ -12,8 +12,9 @@ The code takes in input string that needs to be encrypted and uses transposition
 Workflow of the Project
 Description of functions used in the code and their purpose:
 
-encryption --> encrypt the plain text to cipher text using transposition cipher
-decryption --> decrypt the cipher text to plain text using transposition cipher
+encryption --> encrypt the plain text to cipher text using transposition cipher.
+
+decryption --> decrypt the cipher text to plain text using transposition cipher.
 
 
 After the desired values are entered by the user, the control is passed to the encryption function, which returns the encrypted text and then this text is passed to decryption and output is displayed as both encrypted and decrypted text.
