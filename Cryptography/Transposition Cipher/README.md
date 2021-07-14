@@ -40,13 +40,13 @@ Eg) Key=5 and mssg= 'Your roommate is a spy'
 
 # Output
 
-![image](Cryptography/Transposition Cipher/Images/output 1.png)
+![image](../Cryptography/Transposition Cipher/Images/output 1.png)
 
 
-![image](Cryptography/Transposition Cipher/Images/Output 3.png)
+![image](../Cryptography/Transposition Cipher/Images/Output 3.png)
 
 
-![image](Cryptography/Transposition Cipher/Images/output 1.png)
+![image](../Cryptography/Transposition Cipher/Images/output 1.png)
 
 
 ## Author
