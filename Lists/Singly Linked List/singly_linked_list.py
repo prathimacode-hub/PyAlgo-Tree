@@ -10,36 +10,6 @@
 '''
 
 
-class Node:
-    '''
-    A simple class represents node.
-
-    Attributes:
-        data: The data which was given.
-        next: Points the next node.
-    '''
-
-    __slots__ = 'data', 'next'
-
-    def __init__(self, data=None, next=None):
-        '''
-        Creates Node instance.
-
-        :param data: Stores the given value. (Default: None)
-        :param next: Points the next node. (Default: None)
-        '''
-        self.data = data
-        self.next = next
-
-    def __str__(self):
-        '''
-        String representation of Node.
-
-        :return: string representation of data stored in node.
-        '''
-        return str(self.data)
-
-
 class SinglyLinkedList:
     '''
     Singly Linked List class.
@@ -48,7 +18,36 @@ class SinglyLinkedList:
         head: Points the header node.
     '''
 
-    __slots__ = 'head', '_length'
+    __slots__ = '_head', '_length'
+
+    class _Node:
+        '''
+        A simple class represents node.
+
+        Attributes:
+            data: The data which was given.
+            next: Points the next node.
+        '''
+
+        __slots__ = 'data', 'next'
+
+        def __init__(self, data=None, next=None):
+            '''
+            Creates Node instance.
+
+            :param data: Stores the given value. (Default: None)
+            :param next: Points the next node. (Default: None)
+            '''
+            self.data = data
+            self.next = next
+
+        def __str__(self):
+            '''
+            String representation of Node.
+
+            :return: string representation of data stored in node.
+            '''
+            return str(self.data)
 
     def __init__(self, iterable=()):
         '''
@@ -57,7 +56,7 @@ class SinglyLinkedList:
         :param iterable: takes iterable object if no argument is given empty Singly Linked List.
         '''
         # Initializing Header node
-        self.head = Node('HEAD')
+        self._head = self._Node('HEAD')
         # For storing length
         self._length = 0
 
@@ -69,7 +68,7 @@ class SinglyLinkedList:
 
         :return: iterator of Singly Linked List.
         '''
-        curr = self.head.next
+        curr = self._head.next
         while curr:
             yield curr.data
             curr = curr.next
@@ -106,7 +105,7 @@ class SinglyLinkedList:
         :return: the value stored in index.
         '''
         self.__validate_index(index)
-        curr = self.head
+        curr = self._head
         count = -1
         while curr.next and count < index:
             curr = curr.next
@@ -122,7 +121,7 @@ class SinglyLinkedList:
         :param object: the to be stored in index.
         '''
         self.__validate_index(index)
-        curr = self.head
+        curr = self._head
         count = -1
         while curr.next and count != index:
             curr = curr.next
@@ -146,12 +145,19 @@ class SinglyLinkedList:
 
         :param object: takes an object.
         '''
-        curr = self.head
+        curr = self._head
         while curr.next:
             curr = curr.next
 
-        curr.next = Node(object)
+        curr.next = self._Node(object)
         self._length += 1
+
+    def clear(self):
+        '''
+        Clears the Singly Linked List.
+        '''
+        self._head.next = None
+        self._length = 0
 
     def extend(self, iterable):
         '''
@@ -159,14 +165,32 @@ class SinglyLinkedList:
 
         :param iterable: takes an iterable.
         '''
-        curr = self.head
+        curr = self._head
         while curr.next:
             curr = curr.next
 
         for element in iterable:
-            curr.next = Node(element)
+            curr.next = self._Node(element)
             self._length += 1
             curr = curr.next
+
+    def index(self, object):
+        '''
+        Returns the index of the given object in Singly Linked List.
+
+        :param object: takes an object.
+        :return: index of the given object in Singly Linked List.
+        '''
+        curr = self._head.next
+        index = 0
+        while curr and curr.data != object:
+            curr = curr.next
+            index += 1
+
+        if index >= self._length:
+            raise ValueError(f'{object!r} not in list')
+        else:
+            return index
 
     def insert(self, index, object):
         '''
@@ -184,13 +208,13 @@ class SinglyLinkedList:
         if index > self._length:
             index = self._length
 
-        curr = self.head
+        curr = self._head
         count = -1  # Marking the 'HEAD' node as -1
         while curr.next and count < index - 1:
             curr = curr.next
             count += 1
 
-        new_node = Node(object)
+        new_node = self._Node(object)
         new_node.next = curr.next
         curr.next = new_node
         self._length += 1
@@ -218,7 +242,7 @@ class SinglyLinkedList:
             index = self._length - 1
 
         self.__validate_index(index)
-        curr = self.head
+        curr = self._head
         count = -1
         while curr.next and count < index - 1:
             curr = curr.next
@@ -234,7 +258,7 @@ class SinglyLinkedList:
         Reverse the Singly Linked List in place.
         '''
         prev = None
-        curr = self.head.next
+        curr = self._head.next
 
         while curr:
             next_node = curr.next
@@ -242,32 +266,7 @@ class SinglyLinkedList:
             prev = curr
             curr = next_node
 
-        self.head.next = prev
-
-    def clear(self):
-        '''
-        Clears the Singly Linked List.
-        '''
-        self.head.next = None
-        self._length = 0
-
-    def index(self, object):
-        '''
-        Returns the index of the given object in Singly Linked List.
-
-        :param object: takes an object.
-        :return: index of the given object in Singly Linked List.
-        '''
-        curr = self.head.next
-        index = 0
-        while curr and curr.data != object:
-            curr = curr.next
-            index += 1
-
-        if index >= self._length:
-            raise ValueError(f'{object!r} not in list')
-        else:
-            return index
+        self._head.next = prev
 
     def remove(self, object):
         '''
@@ -275,7 +274,7 @@ class SinglyLinkedList:
 
         :param object: takes an object.
         '''
-        curr = self.head
+        curr = self._head
         while curr.next and curr.next.data != object:
             curr = curr.next
 
