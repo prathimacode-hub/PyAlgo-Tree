@@ -40,13 +40,11 @@ Eg) Key=5 and mssg= 'Your roommate is a spy'
 
 # Output
 
-![image](../Cryptography/Transposition Cipher/Images/output 1.png)
+<img width = 300 height = 270 src="../Cryptography/Transposition Cipher/Images/output 1.png">
+<img width = 300 height = 270 src="../Cryptography/Transposition Cipher/Images/output 2.png">
+<img width = 300 height = 270 src="../Cryptography/Transposition Cipher/Images/output 3.png">
 
 
-![image](../Cryptography/Transposition Cipher/Images/Output 3.png)
-
-
-![image](../Cryptography/TranspositionCipher/Images/output 1.png)
 
 
 ## Author
