@@ -38,6 +38,11 @@ Explain how to setup and run your package/script in user's system
 Briefly show the compilation steps of the script
 
 
+## Sample Test Cases
+
+Provide 2-3 sample test cases of the project
+
+
 ## Output
 
 Display images/gifs/videos of output/result of your script so that users can visualize it
