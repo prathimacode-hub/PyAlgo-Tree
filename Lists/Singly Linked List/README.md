@@ -87,7 +87,7 @@ SinglyLinkedList([True, 11, 22, 44, 55, 77, 2.0])
 >>> repr(s)
 'SinglyLinkedList([True, 11, 22, 44, 55, 77, 2.0])'
 >>> str(s)
-'SinglyLinkedList: HEAD -> True -> 11 -> 22 -> 44 -> 55 -> 77 -> 2.0'
+'SinglyLinkedList: HEAD -> True -> 11 -> 22 -> 44 -> 55 -> 77 -> 2.0 -> END'
 >>> s.clear()
 >>> print(s)
 SinglyLinkedList: HEAD -> END
