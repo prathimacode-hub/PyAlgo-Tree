@@ -41,6 +41,8 @@ Run the script, after that :
 
 <img width = 300 height = 100 src="../Expression Tree Evaluation/Images/expression_tree_evaluation_output.PNG">
 
+<img width = 300 height = 100 src="../Expression Tree Evaluation/Images/expression_tree_evaluation_output2.PNG">
+
 
 ## Author
 [Pushpit Jain](https://github.com/pushpit-J19)
