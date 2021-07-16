@@ -10,7 +10,7 @@ where 0 has been added as first element to ease the calculations
 
 On updating, say changing 1 -> -1 on index 0
 arr becomes = [-1, 2, 3, 4]
-we need to only update the parent nodes which has no of queries = height of tree O(log(n)), 
+we need to only update the parent nodes (which are at index/2 of a node). So, no of queries = height of tree O(log(n)), 
 instead of updating boxes in sqrt decomposition O(sqrt(n)), and all the sums in dp approach O(n)
 so updated tree = [0, 8, 1, 7, -1, 2, 3, 4]
 
