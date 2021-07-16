@@ -1,4 +1,6 @@
 """
+Here we are updating, such that the segment tree internal nodes, store the sum of the children.
+
 Segment trees are special kind of trees that allows answering range queries and updating values in an array effectively (both in O(logn)), 
 For an array, its segment tree will have as leaf nodes = the elements of the array,
 and its internal nodes store the value of a preprocessed value, like the sum of all its children.
