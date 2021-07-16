@@ -15,7 +15,9 @@ The purpose is to solve this problem using A* Algorithm.
 The goal state that we want to reach is:
 
 [1, 2, 3]
+
 [8, 0, 4]
+
 [7, 6, 5] 
 
 The search space is the set of all possible states reachable from the initial state. The blank space may be swapped with a component in one of the four directions {‘Up’, ‘Down’, ‘Left’, ‘Right’}, one move at a time.
@@ -43,7 +45,7 @@ Once the script is run, all the states from the initial to the final are printed
 
 ## Output
 
-<img src="../Subset Sum/Images/ss.png">
+<img src="../8 Puzzle Problem using A star Algorithm/Images/ss.png">
 
 
 ## Author
