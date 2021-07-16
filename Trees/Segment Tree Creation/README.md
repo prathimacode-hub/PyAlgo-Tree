@@ -38,10 +38,9 @@ Run the script, after that :
 
 # Output
 
-<img width = 500 height = 100 src="../Infix to Postfix Conversion/Images/infix_to_postfix_conversion1.PNG">
-<img width = 500 height = 100 src="../Infix to Postfix Conversion/Images/infix_to_postfix_conversion2.PNG">
-<img width = 500 height = 100 src="../Infix to Postfix Conversion/Images/infix_to_postfix_conversion3.PNG">
-
+<img width = 600 height = 100 src="../Segment Tree Creation/Images/creation_output1.PNG">
+<img width = 600 height = 100 src="../Segment Tree Creation/Images/creation_output2.PNG">
+<img width = 600 height = 100 src="../Segment Tree Creation/Images/creation_output3.PNG">
 
 
 ## Author
