@@ -40,8 +40,9 @@ Run the script, after that :
 
 # Output
 
-<img width = 800 height = 350 src="../Segment Tree Update Query/Images/update_query_output1.PNG">
-<img width = 800 height = 350 src="../Segment Tree Update Query/Images/update_query_output2.PNG">
+<img width = 800 height = 250 src="../Segment Tree Range Sum Query/Images/range_sum_query_output1.PNG">
+<img width = 800 height = 250 src="../Segment Tree Range Sum Query/Images/range_sum_query_output2.PNG">
+
 
 
 ## Author
