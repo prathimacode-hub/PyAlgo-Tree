@@ -42,8 +42,8 @@ Run the script, after that :
 
 # Output
 
-<img width = 600 height = 400 src="../Segment tree Update Query/Images/update_query_output1.PNG">
-<img width = 600 height = 400 src="../Segment tree Update Query/Images/update_query_output2.PNG">
+<img width = 800 height = 350 src="../Segment Tree Update Query/Images/update_query_output1.PNG">
+<img width = 800 height = 350 src="../Segment Tree Update Query/Images/update_query_output2.PNG">
 
 
 ## Author
