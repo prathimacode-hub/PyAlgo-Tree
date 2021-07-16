@@ -3,7 +3,7 @@
 
 ## Aim
 
-The aim is to create a python code to do update query on a segment tree of a given array of numbers
+The aim is to create a python code to do update query on a segment tree of a given array of numbers to store the sums
 
 ## Purpose
 
