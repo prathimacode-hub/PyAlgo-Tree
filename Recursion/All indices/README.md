@@ -38,7 +38,7 @@ Run the script, after that :
 
 
 # Output
-![](Images/output.png)
+![](Images/Output-img.jpg)
 
 
 ## Author
