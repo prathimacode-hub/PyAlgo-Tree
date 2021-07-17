@@ -46,8 +46,10 @@ Run the script, after that :
 
 # Output
 
-<img width = 800 height = 250 src="../Segment Tree Range Sum Query/Images/range_sum_query_output1.PNG">
-<img width = 800 height = 250 src="../Segment Tree Range Sum Query/Images/range_sum_query_output2.PNG">
+<img width = 800 height = 120 src="../Binary Tree To DLL/Images/binary_tree_to_dll_output1.PNG">
+<img width = 800 height = 120 src="../Binary Tree To DLL/Images/binary_tree_to_dll_output2.PNG">
+<img width = 800 height = 120 src="../Binary Tree To DLL/Images/binary_tree_to_dll_output3.PNG">
+
 
 
 
