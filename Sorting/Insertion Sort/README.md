@@ -29,7 +29,8 @@ eg) a = [34,5,77,33]
 output you should get is 5, 33, 34, 77 along with no. of swaps and comparisons.
 
 ## Output
-
+<img width = 221 height = 27 src="../Insertion Sort/Images/input.png">
+<img width = 385 height = 188 src="../Insertion Sort/Images/sort_output1.png">
 
 
 ## Author(s)
