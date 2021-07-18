@@ -20,3 +20,36 @@ print('No. of comparisions=%d'% comp)
 print("Sorted Array is: ")
 for i in range(len(a)):
     print ("% d" % a[i],end=' ')
+
+    
+    # Test cases"
+'''input:
+a = [34,5,77,33] 
+
+output 
+
+5, 33, 34, 77 along with 
+no. of swaps = 3 
+no. of comparisons=5
+
+### Test case 2
+input
+a=[90,8,11,3,2000,700,478]
+
+Output:
+
+No. of swaps= 8 
+No. of comparisions=12 
+Sorted Array is:
+ 3  8  11  90  478  700  2000
+ 
+ ### Test case 3
+ input
+ a=[0,33,7000,344,-88,2000]
+ 
+ output:
+
+No. of swaps= 6
+No. of comparisions=10
+Sorted Array is:
+-88  0  33  344  2000  7000'''
