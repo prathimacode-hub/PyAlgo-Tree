@@ -13,7 +13,13 @@ The main purpose is to sort list of any numbers in O(n) or O(n^2) time complexit
 
 Takes in an array. <br>
 Sorts the array and prints sorted array along with the number of swaps and comparisions made.
+Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
 
+## Detailed explanation of script, if needed
+To sort an array of size n in ascending order: 
+1: Iterate from a[1] to a[n] over the array. 
+2: Compare the current element (val) to its predecessor. 
+3: If the val is smaller than its predecessor, compare it to the elements before. Move the greater elements one position up to make space for the swapped element.
 
 ## Setup instructions
 
