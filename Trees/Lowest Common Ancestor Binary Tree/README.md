@@ -52,10 +52,10 @@ Run the script, after that :
 
 # Output
 
-<img width = 200 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output1.PNG">
-<img width = 200 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output2.PNG">
-<img width = 200 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output3.PNG">
-<img width = 200 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output4.PNG">
+<img width = 250 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output1.PNG">
+<img width = 250 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output2.PNG">
+<img width = 400 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output3.PNG">
+<img width = 400 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output4.PNG">
 
 
 
