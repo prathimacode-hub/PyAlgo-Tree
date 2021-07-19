@@ -67,15 +67,15 @@ llustration to delete in below tree:
 Just clone the repository .
 
 ### Output
-![](\images\output1.png)
+<img src="https://github.com/prathimacode-hub/PyAlgo-Tree/blob/09d7662554c647018634a831fcd06e066ff3f014/Trees/Binary%20Search%20Tree/images/output1.png">
 
-![](\images\output2.png)
+<img src="https://github.com/prathimacode-hub/PyAlgo-Tree/blob/09d7662554c647018634a831fcd06e066ff3f014/Trees/Binary%20Search%20Tree/images/output2.png">
 
-![](\images\output3.png)
+<img src="https://github.com/prathimacode-hub/PyAlgo-Tree/blob/09d7662554c647018634a831fcd06e066ff3f014/Trees/Binary%20Search%20Tree/images/output3.png">
 
-![](\images\output4.png)
+<img src="https://github.com/prathimacode-hub/PyAlgo-Tree/blob/09d7662554c647018634a831fcd06e066ff3f014/Trees/Binary%20Search%20Tree/images/output4.png">
 
-![](\images\output5.png)
+<img src="https://github.com/prathimacode-hub/PyAlgo-Tree/blob/09d7662554c647018634a831fcd06e066ff3f014/Trees/Binary%20Search%20Tree/images/output5.png">
 
 ### Author(s)
 Neha Jha
