@@ -52,9 +52,10 @@ Run the script, after that :
 
 # Output
 
-<img width = 800 height = 120 src="../Binary Tree To DLL/Images/binary_tree_to_dll_output1.PNG">
-<img width = 800 height = 120 src="../Binary Tree To DLL/Images/binary_tree_to_dll_output2.PNG">
-<img width = 800 height = 120 src="../Binary Tree To DLL/Images/binary_tree_to_dll_output3.PNG">
+<img width = 200 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output1.PNG">
+<img width = 200 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output2.PNG">
+<img width = 200 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output3.PNG">
+<img width = 200 height = 120 src="../Lowest Common Ancestor Binary Tree/Images/lowest_common_ancestor_binary_tree_output4.PNG">
 
 
 
