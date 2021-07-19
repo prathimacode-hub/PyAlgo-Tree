@@ -28,14 +28,6 @@ Merge Sort is a Divide and Conquer algorithm. It divides the input array into tw
 calls itself for the two halves, and then merges the two sorted halves.
 
 ### Algorithm 
-* Set first element as minimum.
-* Compare the minimum element with second element and if
-the second element is smaller then assign it to minimum.
-* Then,go on comparing minimum to the end of array.
-* Swap the first element and minimum.
-* For next iteration start from the second element as first 
-element is already sorted.
-* Repeat these steps till array is sorted. 
 * Find the middle point to divide the array into two halves:  
              middle m = l+ (r-l)/2
 * Call mergeSort for first half:   
@@ -44,6 +36,7 @@ element is already sorted.
              Call merge_sort(arr, m+1, r)
 * Merge the two halves sorted in step 2 and 3:
              Call merge_array(arr, l, m, r)
+* call the array again using recursion.
 
 
 ## Output
