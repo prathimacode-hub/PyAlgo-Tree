@@ -40,7 +40,7 @@ After the script is run, enter:
 
 ## Output
 
-<img src="../Reverse Cipher/Images/reverse_output cipher.png"> 
+<img src="../Reverse Cipher/Images/reverse_cipher.png"> 
 
 
 ## Author
