@@ -52,7 +52,9 @@ Run the script, after that :
 
 # Output
 
-<img width = 250 height = 120 src="../Lowest Common Ancestor Binary Search Tree/Images/lowest_common_ancestor_binary_search_tree_output1.PNG">
+<img width = 350 height = 120 src="../Lowest Common Ancestor Binary Search Tree/Images/lowest_common_ancestor_binary_search_tree_output1.PNG">
+<img width = 300 height = 120 src="../Lowest Common Ancestor Binary Search Tree/Images/lowest_common_ancestor_binary_search_tree_output2.PNG">
+<img width = 350 height = 120 src="../Lowest Common Ancestor Binary Search Tree/Images/lowest_common_ancestor_binary_search_tree_output3.PNG">
 
 
 
