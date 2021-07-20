@@ -227,6 +227,8 @@ This project is a part of these open source programs.
   </tr>
 </table>
 
+You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/DCP_SCORECARD.md)** <br>
+**Point to Note** : It will be updated once in 4 days. 
 
 <h2>✨Hall Of Fame</h2>   
 
