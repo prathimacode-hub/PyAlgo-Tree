@@ -12,7 +12,7 @@ Also acheive faster insertion and deletion. And to traverse in both
 direction in list.
 
 
-## Short description of script
+## Short Description
 
 Linked List:
 - Linked List is a collection of nodes that are connected through their references.
@@ -48,7 +48,7 @@ Doubly Linked List:
 + Also, we're declaring node class as protected inside main class.
 
 
-## Setup instructions
+## Setup Instructions
 
 Import the script by,
 
