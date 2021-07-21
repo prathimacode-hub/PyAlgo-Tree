@@ -1,5 +1,5 @@
 ''' 
-Aim: Read a complex number as input from user, complec_num and print 
+Aim: Read a complex number as input from user, complex_num and print 
 its value in polar coordinates.
 
 '''
