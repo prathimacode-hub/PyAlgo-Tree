@@ -11,7 +11,7 @@ for i in range(3):
 print()
 
 # creating an array with float type
-m = arr.array('d', [2.5, 3.2, 3.3])
+m = arr.array('d', [1.1, 1.5, 2.0])
 
 # printing  array
 print("The new Floating point array is : ", end=" ")
