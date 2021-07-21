@@ -289,8 +289,7 @@ If you like this project, consider giving a ⭐ to this project and share it as 
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
-<td>
-<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/tree/main/Projects)***</kbd> *to view my other projects.</sup>* <br>
+<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
 </td>
 
 
