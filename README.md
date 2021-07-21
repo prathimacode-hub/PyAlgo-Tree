@@ -1,16 +1,26 @@
 # Welcome to PyAlgo-Tree 👋
 
-<div align="center">
- 
-![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/PyAlgo-Tree.png)
+<p align="center">
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/PyAlgo-Tree.png"></a>
+</p>
+<p align="center">
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green"></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/maintenance/yes/2021"></a>
+</p> 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
-[![Maintenance](https://img.shields.io/maintenance/yes/2021)](https://github.com/prathimacode-hub)
-
-</div>
+<p align="center">
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/stargazers"><img src="https://badgen.net/github/stars/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/network/members"><img src="https://badgen.net/github/forks/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/issues"><img src="https://badgen.net/github/open-issues/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/issues?q=is%3Aissue+is%3Aclosed"><img src="https://badgen.net/github/closed-issues/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/pulls"><img src="https://badgen.net/github/prs/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/pulls"><img src="https://badgen.net/github/open-prs/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/pulls?q=is%3Apr+is%3Aclosed"><img src="https://badgen.net/github/closed-prs/prathimacode-hub/PyAlgo-Tree"></a>
+</p>
 
 
 <h2> 📌Repository</h2>
