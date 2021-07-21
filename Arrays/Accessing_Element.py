@@ -4,7 +4,7 @@
 import array as arr
 
 # array with integer
-a = arr.array('i', [1, 2, 3, 4, 5, 6])
+a = arr.array('i',  [1, 2, 3, 4, 5, 6])
 
 # accessing element with indices
 print("Access First element in array is : ", a[0])
