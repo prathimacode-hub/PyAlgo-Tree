@@ -4,7 +4,7 @@
 import array as arr
 
 # initializing array with array values
-a = arr.array('i', [1, 2, 3, 4, 5])
+a = arr.array('i', [1, 2, 3, 4, 5, 6])
 
 # printing initial array
 print("The array is : ", end="")
