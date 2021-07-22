@@ -34,7 +34,35 @@ for key in range(len(LETTERS)):
     print('Key %s: %s' % (key, translated))
 
 
-
+''' test cases:
+encrypted string: 'Rcb Vjprl'
+Output:
+Key 0: RCB VJPRL
+Key 1: QBA UIOQK
+Key 2: PAZ THNPJ
+Key 3: OZY SGMOI
+Key 4: NYX RFLNH
+Key 5: MXW QEKMG
+Key 6: LWV PDJLF
+Key 7: KVU OCIKE
+Key 8: JUT NBHJD
+Key 9: ITS MAGIC
+Key 10: HSR LZFHB
+Key 11: GRQ KYEGA
+Key 12: FQP JXDFZ
+Key 13: EPO IWCEY
+Key 14: DON HVBDX
+Key 15: CNM GUACW
+Key 16: BML FTZBV
+Key 17: ALK ESYAU
+Key 18: ZKJ DRXZT
+Key 19: YJI CQWYS
+Key 20: XIH BPVXR
+Key 21: WHG AOUWQ
+Key 22: VGF ZNTVP
+Key 23: UFE YMSUO
+Key 24: TED XLRTN
+Key 25: SDC WKQSM
 
 
 
