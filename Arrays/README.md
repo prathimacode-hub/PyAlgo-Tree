@@ -1,25 +1,21 @@
 # Array
 - An array is a collection of similar type items stored at contiguous memory locations.  This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array. The base value is index 0 and the difference between the two indexes is the offset. 
 - In python array is implemented using list data structure.
-- 
-## Aim
 
+## Aim
 To implement Array data structure in Python.
 
 
 ## Purpose
-
 The purpose is to create an data structure to array and demonstrate the operations.
 
 
 ## Short Description
-
 Array:
 - An array is a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together.
 
 
 ## Workflow of the Project
-
 - This script contains seperate files named after the Operation.
 
 * The Array Operations,
@@ -36,7 +32,5 @@ Array:
 
 
 ## Author
-
 [Sanjay N T](https://github.com/sanjay-nt)
-
 :Date: 2021-07-22
