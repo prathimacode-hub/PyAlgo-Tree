@@ -34,8 +34,7 @@ After the script is run, enter:
 
 ## Output
 
-<img src="../Reverse Cipher/Images/reverse_cipher.png"> 
-
+<img src="../Brute Forcing Caesar Cipher/Images/brute_force_output.png"> 
 
 ## Author
 
