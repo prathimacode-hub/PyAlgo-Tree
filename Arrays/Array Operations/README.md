@@ -13,10 +13,12 @@ The purpose is to create an data structure to array and demonstrate the operatio
 ## Short Description
 Array:
 - An array is a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together.
+- In the code I have used array module to create arrays and performed operations on then.
 
 
 ## Workflow of the Project
-- This script contains seperate files named after the Operation.
+- Under Array Operations --> Array_operations.py python script file is present. This file is the main python program file which contails the code.
+- I have initially created a array of integer type and performed operations on the same. The operation are creating, adding element and deleting element using the built in methods.
 
 * The Array Operations,
     - Operations,
@@ -26,9 +28,12 @@ Array:
             - Method used to input element in to a specific location of the array.
         - pop(), 
             - Method used to pop element at a particular location of the array. 
+
         - remove(), 
             - Method used to remove a particular element in an array. 
          
+ ## Output:
+ ![output](https://user-images.githubusercontent.com/55579860/126679428-aed57844-90c7-4334-97c6-d2c9364f085b.png)
 
 
 ## Author
