@@ -3,7 +3,7 @@
 
 **INTRODUCTION**
 
-Here, we have used Logistic Regression algorithm which is a classification algorithm for the project as Mobile Price Range Classification.
+Here, we have used **Logistic Regression** algorithm which is a classification algorithm for the project as Mobile Price Range Classification.
 
 **DATASET**
 
@@ -38,10 +38,11 @@ So for the problem statement we will proceed with following steps to classify th
 ![](https://github.com/ayushi424/PyAlgo-Tree/blob/main/Machine%20Learning/Mobile%20Price%20Range%20Classification/Images/lr1.jpg)
 - Now, we will split the dataset into training and testing data using train-test-split method from sklearn.
 - Training data is the data that the model will use to train itself and testing data is the data on which testing of model will be done in form of predictions.
-- Now, import the logistic Regression from sklearn, and initialze it.
+- Now, import the logistic Regression from sklearn, and initialize it.
 - After initializing, fit the data into it and perform predictions.
 ![](https://github.com/ayushi424/PyAlgo-Tree/blob/main/Machine%20Learning/Mobile%20Price%20Range%20Classification/Images/lr2.jpg)
 ![](https://github.com/ayushi424/PyAlgo-Tree/blob/main/Machine%20Learning/Mobile%20Price%20Range%20Classification/Images/lr3.jpg)
+
 **USAGE**
 - Various classification tasks and projects.
 - Where  the target variable is discrete variable not continous.
