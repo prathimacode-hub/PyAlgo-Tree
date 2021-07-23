@@ -1,7 +1,0 @@
-Requirements
-- Tools
-	1. Install python 3 
-	2. Any IDE's, I have used Pycharm IDE.
-- Prerequisite
-	* Prior kowledge about Arrays structure. 
-	* Beginner level experience in python and List sturucture operations.
