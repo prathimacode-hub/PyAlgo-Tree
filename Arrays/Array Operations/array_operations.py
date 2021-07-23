@@ -1,75 +1,100 @@
 # Python Program to demonstrate creation of Array using array creations
 import array as arr
 
+size = int(input(" Enter the size of Array: "))
 # creating an array with integer type
-n = arr.array('i', [1, 2, 3,4])
+lst = list()
+for i in range(size):
+    lst.append(int(input("Enter the Element:")))
+n = arr.array('i', lst)
 
 # printing array
-print("The new integer array is : ", end=" ")
-for i in range(4):
-    print(n[i], end =", ")
-print()
+def pr(n):
+    print("The new integer array is : ", end=" ")
+    for i in range(len(n)):
+        print(n[i], end =", ")
+    print()
 
-# creating an array with float type
-m = arr.array('d', [1.1, 1.5, 2.0])
+def add(n,j):
+    print("The Array before adding: ", end=" ")
+    for i in range(len(n)):
+        print(n[i], end=", ")
+    print()
+    #Append() method
+    n.append(j)
+    print("The Array After adding: ", end=" ")
+    for i in range(len(n)):
+        print(n[i], end=", ")
+    print()
 
-# printing  array
-print("The new Floating point array is : ", end=" ")
-for i in range(3):
-    print(m[i], end=", ")
+def adde(n,j,p):
+    print("The Array before adding: ", end=" ")
+    for i in range(len(n)):
+        print(n[i], end=", ")
+    print()
+    #insert() method
+    n.insert(p,j)
+    print("The Array After adding: ", end=" ")
+    for i in range(len(n)):
+        print(n[i], end=", ")
+    print()
 
-print()
+def pp(n,j):
+    if n:
+        print("The Array before Popping: ", end=" ")
+        for i in range(len(n)):
+            print(n[i], end=", ")
+        print()
+        # pop() method
+        n.pop(j)
+        print("The Array After Popping: ", end=" ")
+        for i in range(len(n)):
+            print(n[i], end=", ")
+        print()
+    else:
+        print("Array Empty")
 
-# Adding Elements to a Array using insert() and append() methods
+def prt(n,j):
+    if n:
+        if j in range(len(n)):
+            print("The Array before Removing: ", end=" ")
+            for i in range(len(n)):
+                print(n[i], end=", ")
+            print()
+            #remove Method
+            n.remove(j)
+            print("The Array After Removing: ", end=" ")
+            for i in range(len(n)):
+                print(n[i], end=", ")
+            print()
+        else:
+            print("Index Out of Bound")
+    else:
+        print("Array Empty")
 
-# Creating an integer array
-print("Array before insertion : ", end=" ")
-for i in range(4):
-    print(n[i], end=", ")
-print()
-
-# inserting array using insert()
-n.insert(4, 5)
-
-print("Array after insertion using insert(): ", end=" ")
-for i in (n):
-    print(i, end=", ")
-print()
-
-n.append(6)
-
-print("Array after insertion using append(): ", end=" ")
-for i in (n):
-    print(i, end=", ")
-print()
-
-# printing initial array
-print("The array is : ", end="")
-for i in range(5):
-    print(n[i], end=", ")
-
-print("\r")
-
-# using pop() to remove element
-print("The popped element is : ", end="")
-# Removing element at 4th position
-print(n.pop(4))
-
-# printing array
-print("The array after popping is : ", end="")
-for i in range(4):
-    print(n[i], end=", ")
-
-print("\r")
-
-# using remove()
-# removing the element at position 2
-n.remove(2)
-
-# printing array after removing
-print("The array after removing is : ", end="")
-for i in range(3):
-    print(n[i], end=", ")
+#Driver code
+flag = 1
+while(flag):
+    print()
+    print("1.Print Array\n2.Add Element using append()\n3.Add Element using insert()\n4.Pop() Element\n5.Remove Element at position\n6.Exit\n")
+    option = int(input("Enter the option :"))
+    if option == 1:
+        pr(n)
+    elif option == 2:
+        i = int(input("Enter the Element to be added: "))
+        add(n,i)
+    elif option == 3:
+        p = int(input("Enter the position to add element:"))
+        i = int(input("Enter the Element: "))
+        adde(n, i, p)
+    elif option == 4:
+        i = int(input("Enter the Element position To be popped: "))
+        pp(n, i)
+    elif option == 5:
+        i = int(input("Enter the Element Position To be Removed: "))
+        prt(n, i)
+    elif option == 6 :
+        flag = 0
 
 
 
