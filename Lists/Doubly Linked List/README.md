@@ -108,9 +108,11 @@ DoublyLinkedList([])
 ## Output
 
 Output of above test case,
+
 ![Output_Screenshot_1](Images/screenshot_1.png)
 
 Output of test case inside file,
+
 ![Output_Screenshot_2](Images/screenshot_2.png)
 
 ## Author
