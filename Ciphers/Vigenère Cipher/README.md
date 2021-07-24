@@ -27,11 +27,12 @@ The Vignere Ciphere is an Algorithm easy to understand and implement,used to enc
 - Vignere uses a Vigenere table for encryption and decryption of the text. It is also known as tabula recta.
 
 ![Vignere Cipher](https://user-images.githubusercontent.com/85128689/126861976-baaeb39a-9fb1-4676-bd89-606c7d5e2149.png)  
+**Path Link:** https://github.com/DurgaSai-16/PyAlgo-Tree/blob/main/Ciphers/Vigen%C3%A8re%20Cipher/Images/Vignere%20Table.png
 - Based on the mode opted by the user this helps us to either encrypting or decrypting the message
 
 ## Compilation Steps
-- Download the file Vignere_Ciphere.py
-- Run the file Vignere_Cipher.py
+- Download the file [Vignere_Ciphere.py](https://github.com/DurgaSai-16/PyAlgo-Tree/blob/main/Ciphers/Vigen%C3%A8re%20Cipher/Vignere_Cipher.py)
+- Run the file [Vignere_Cipher.py](https://github.com/DurgaSai-16/PyAlgo-Tree/blob/main/Ciphers/Vigen%C3%A8re%20Cipher/Vignere_Cipher.py)
 - Input the `message` you want encrypt or decrypt.
 - Input a strong `key` 
 - Choose a mode 
@@ -57,10 +58,10 @@ The Vignere Ciphere is an Algorithm easy to understand and implement,used to enc
 ## Output
 **Encryption:**  
 ![Encryption](https://user-images.githubusercontent.com/85128689/126864767-a193803b-ee60-4e3c-9b53-c71e2c242a6d.png)
-
+**Path Link:** https://github.com/DurgaSai-16/PyAlgo-Tree/blob/main/Ciphers/Vigen%C3%A8re%20Cipher/Images/Encryption%20Mode.png
 **Decryption:**  
 ![Decryption](https://user-images.githubusercontent.com/85128689/126864791-41ca2fba-363f-42be-828c-890fb6419eaf.png)
-
+**Path Link:** https://github.com/DurgaSai-16/PyAlgo-Tree/blob/main/Ciphers/Vigen%C3%A8re%20Cipher/Images/Decryption%20Mode.png
 
 ## Author:
 [NALLANI DURGA SAI](https://github.com/DurgaSai-16)
