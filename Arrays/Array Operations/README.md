@@ -33,7 +33,7 @@ Array:
             - Method used to remove a particular element in an array. 
          
  ## Output:
- ![output](https://user-images.githubusercontent.com/55579860/126679428-aed57844-90c7-4334-97c6-d2c9364f085b.png)
+
 
 
 ## Author
