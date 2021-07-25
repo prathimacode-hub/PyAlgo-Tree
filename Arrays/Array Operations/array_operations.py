@@ -1,12 +1,13 @@
 # Python Program to demonstrate creation of Array using array creations
 import array as arr
 
+print("INTEGER ARRAY OPERATIONS:")
 size = int(input(" Enter the size of Array: "))
 # creating an array with integer type
 lst = list()
 for i in range(size):
-    lst.append(int(input("Enter the Element:")))
-n = arr.array('i', lst)
+    lst.append(int(input("Enter the  Integer Element:")))
+n = arr.array(lst)
 
 # printing array
 def pr(n):
@@ -88,7 +89,7 @@ while(flag):
         i = int(input("Enter the Element: "))
         adde(n, i, p)
     elif option == 4:
-        i = int(input("Enter the Element position To be popped: "))
+        i = int(input("Enter the Index position To be popped: "))
         pp(n, i)
     elif option == 5:
         i = int(input("Enter the Element Position To be Removed: "))
