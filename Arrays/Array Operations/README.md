@@ -33,8 +33,31 @@ Array:
             - Method used to remove a particular element in an array. 
          
  ## Output:
+Test case 1:
+- Lets create an array of size 3 
+<img src="../Array Operations/Images/Output1_part1.png">
 
+- Operation 1 printing the array created  
+<img src="../Array Operations/Images/Output1_part2.png">
 
+- Operation 2 Adding Integer element to array using append  
+    - We are adding 4 to array
+<img src="../Array Operations/Images/Output1_part3.png">
+
+- Operation 3 Adding Integer element to array using insert
+    - We are adding 5 to index 2 of array 
+<img src="../Array Operations/Images/Output1_part4.png">
+
+- Operation 4 removing Integer element from array using pop
+    - We are removing the element at index 2
+<img src="../Array Operations/Images/Output1_part5.png">
+
+- Operation 5 removing Integer element from array using remove
+    - We are removing the element 2
+<img src="../Array Operations/Images/Output1_part6.png">
+
+- Operation 6 exit
+<img src="../Array Operations/Images/Output1_part7.png">
 
 ## Author
 [Sanjay N T](https://github.com/sanjay-nt)
