@@ -1,58 +1,99 @@
-# Package/Script Name
+# Linked Queue
 
 ## Aim
 
-The main aim of the script you want to achieve.
-
+To implement a queue data structure using linked list.
 
 ## Purpose
 
-What's the purpose of this script
+It is an alternative to array based queue. Also do enqueue() and dequeue() operation in faster way.
 
+## Short description of script
 
-## Short description of package/script
-
-- Give a short introduction about the script
-- If package, list of functionalities/scripts it can perform
-- If standalone script, short description of script explaining what it achieves.
-- List out the libraries imported.
+Linked Queue:
+- Queue implemented by linked list concept is known as Linked Queue.
+- It reduces the complexity in array based queue.
+- It manages every enqueue() and dequeue() operation run in O(1) time.
 
 
 ## Workflow of the Project
 
-Add the workflow of the script point by point to get good understanding of the program
+- Script Contents:
+    - Class: LinkedQueue: Manages the queue.
+    - Methods:
+        - clear(): Clears the queue.
+        - dequeue(): Deletes first element of the queue and returns it. 
+        - enqueue(): Adds the given element at the end of queue.
+        - extend(): Extends the queue with given iterable elements.
+        - is_empty(): Tells the queue is empty or not.
+        - peek(): Return the first element without deleting it.
+        - reverse(): Reverses the queue.
 
+- In our implementation we use head and trail variables that respectively stores header and trailer of linked queue.
 
-## Detailed explanation of script, if needed
+- It is used for easy enqueue() and dequeue() operation.
 
-If code is not explainable using comments, use this sections to explain your script
-
+- There is no upper limit condition, because of linked structure.
 
 ## Setup instructions
 
-Explain how to setup and run your package/script in user's system
-
-
-## Compilation Steps
-
-Briefly show the compilation steps of the script
-
+- Import using,
+    ```python
+    from linked_queue import * 
+    ```
+    OR
+    ```python
+    import linked_queue
+    ```
+- Create a instance,
+    ```python
+    varible_name = LinkedQueue()
+    ```
+    OR
+    ```python
+    varible_name = linked_queue.LinkedQueue()
+    ```
+- And start work on it.
 
 ## Sample Test Cases
 
-Provide 2-3 sample test cases of the project
-
+```python
+>>> from linked_queue import *
+>>> q = LinkedQueue(range(1,6))
+>>> q
+LinkedQueue([1, 2, 3, 4, 5])
+>>> print(q)
+LinkedQueue: START - 1 - 2 - 3 - 4 - 5 - END
+>>> q.reverse()
+>>> q
+LinkedQueue([5, 4, 3, 2, 1])
+>>> len(q)
+5
+>>> q.enqueue(2.0)
+>>> q
+LinkedQueue([5, 4, 3, 2, 1, 2.0])
+>>> q.dequeue()
+5
+>>> q
+LinkedQueue([4, 3, 2, 1, 2.0])
+>>> q.clear()
+>>> q
+LinkedQueue([])
+>>> len(q)
+0
+```
 
 ## Output
 
-Display images/gifs/videos of output/result of your script so that users can visualize it
+- Test case above,
+
+    ![Screenshot_1](Images/Screenshot_1.png)
+
+- Test case inside script,
+
+    ![Screenshot_2](Images/Screenshot_2.png)
 
 
-## Author(s)
+## Author
 
-Name(s) of author(s)
-
-
-## Disclaimers, if any
-
-Use this section to mention if any particular disclaimer is required
+[NanthaKumar](https://github.com/nknantha)
