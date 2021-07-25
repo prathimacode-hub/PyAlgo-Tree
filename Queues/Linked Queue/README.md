@@ -33,11 +33,8 @@ Linked Queue:
         - is_empty(): Tells the queue is empty or not.
         - peek(): Return the first element without deleting it.
         - reverse(): Reverses the queue.
-
 - In our implementation we use head and trail variables that respectively stores header and trailer of linked queue.
-
 - It is used for easy enqueue() and dequeue() operation.
-
 - There is no upper limit condition, because of linked structure.
 
 ## Setup instructions
@@ -90,12 +87,10 @@ LinkedQueue([])
 
 ## Output
 
-- Test case above,
-
+- Test case above,  
     ![Screenshot_1](Images/Screenshot_1.png)
 
-- Test case inside script,
-
+- Test case inside script,  
     ![Screenshot_2](Images/Screenshot_2.png)
 
 
