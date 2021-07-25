@@ -10,6 +10,11 @@ It is an alternative to array based queue. Also do enqueue() and dequeue() opera
 
 ## Short description of script
 
+Queue ADT:
+- Queue is a linear data structure in which insertion and deletion
+performed based on FIFO principle.
+- FIFO: First In First Out.
+
 Linked Queue:
 - Queue implemented by linked list concept is known as Linked Queue.
 - It reduces the complexity in array based queue.

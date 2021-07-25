@@ -1,35 +1,30 @@
 """
 Queue ADT:
-    - Queue is a linear data structure in which insertion and deletion
-      performed based on FIFO principle.
-    - FIFO: First In First Out.
-    - Operations:
-        - enqueue(): adds the new element at the end of the queue.
-        - dequeue(): delete and returns the first element in the queue.
-        - is_empty(): tells the queue is empty or not.
-        - peek(): returns the first element in the queue.(Without Delete)
+- Queue is a linear data structure in which insertion and deletion
+performed based on FIFO principle.
+- FIFO: First In First Out.
 
 Linked Queue:
-    - Queue implemented by linked list concept is known as Linked Queue.
-    - It reduces the complexity in array based queue.
-    - It manages every enqueue() and dequeue() operation run in O(1) time.
+- Queue implemented by linked list concept is known as Linked Queue.
+- It reduces the complexity in array based queue.
+- It manages every enqueue() and dequeue() operation run in O(1) time.
 
 Implementation:
-    In our implementation let,
-        - head denotes the header of linked list.
-        - trail denotes the trailer of linked list.
-    It is used for easy enqueue() and dequeue() operation. Because of using linked
-    list there is no upper limit of queueing elements.
+- In our implementation we use head and trail variables that respectively
+stores header and trailer of linked queue.
+- It is used for easy enqueue() and dequeue() operation.
+- There is no upper limit condition, because of linked structure.
 
-    Class: LinkedQueue
-    Methods:
-        - clear()
-        - dequeue()
-        - enqueue()
-        - extend()
-        - is_empty()
-        - peek()
-        - reverse()
+Contents:
+- Class: LinkedQueue: Manages the queue.
+- Methods:
+    - clear(): Clears the queue.
+    - dequeue(): Deletes first element of the queue and returns it. 
+    - enqueue(): Adds the given element at the end of queue.
+    - extend(): Extends the queue with given iterable elements.
+    - is_empty(): Tells the queue is empty or not.
+    - peek(): Return the first element without deleting it.
+    - reverse(): Reverses the queue.
 
 :URL: https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Queues/Linked%20Queue/linked_queue.py
 :Author: NanthaKumar <nknanthakumar13@gmail.com>
