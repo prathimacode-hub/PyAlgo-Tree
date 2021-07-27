@@ -48,7 +48,7 @@ After the final process the unsorted array is sorted.
 Just clone the repository .
 
 ### Output
-
+<img src="https://github.com/prathimacode-hub/PyAlgo-Tree/blob/3e08153a796610d5cc7579c352d74c9993e47bc3/Sorting/Shell%20Sort/Images/Output1.png">
 
 ### Author(s)
 Neha Jha
