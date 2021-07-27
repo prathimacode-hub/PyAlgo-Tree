@@ -50,5 +50,7 @@ Just clone the repository .
 ### Output
 <img src="https://github.com/prathimacode-hub/PyAlgo-Tree/blob/3e08153a796610d5cc7579c352d74c9993e47bc3/Sorting/Shell%20Sort/Images/Output1.png">
 
+<img src="https://github.com/prathimacode-hub/PyAlgo-Tree/blob/e1bff3b00ee020a088bf942a98a90b311f53484a/Sorting/Shell%20Sort/Images/Output2.png"
+
 ### Author(s)
 Neha Jha
