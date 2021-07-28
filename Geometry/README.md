@@ -1,4 +1,7 @@
-## Check out all the amazing scripts related to 'Geometry' here:
+# Geometry
 
-- [Complex to Polar](Geometry/ComplexToPolarCoordinates/complex_to_polar.py)
-- [Find Angle MBC](Geometry/ComplexToPolarCoordinates/Find_Angle_MBC.py)
+## Check out all the amazing scripts using 'Geometry' here:
+
+- [Complex to Polar](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Geometry/Complex%20To%20Polar%20Coordinates)
+
+- [Find Angle MBC](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Geometry/Find%20Angle%20MBC)
