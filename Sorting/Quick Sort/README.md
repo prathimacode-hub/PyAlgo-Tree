@@ -48,6 +48,9 @@ Just clone the repository .
 
 ### Output
 
+<img src="https://github.com/prathimacode-hub/PyAlgo-Tree/blob/1f340543e6cee34c0851017ce4040486ea8ce7d8/Sorting/Quick%20Sort/Images/output1.png">
+
+<img src="https://github.com/prathimacode-hub/PyAlgo-Tree/blob/7cd90dac93bcaa2d9514d6d1139e7816a24d9d41/Sorting/Quick%20Sort/Images/output2.png">
 
 ### Author(s)
 Neha Jha

@@ -1,16 +1,26 @@
 # Welcome to PyAlgo-Tree 👋
 
-<div align="center">
- 
-![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/PyAlgo-Tree.png)
+<p align="center">
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/PyAlgo-Tree.png"></a>
+</p>
+<p align="center">
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green"></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/maintenance/yes/2021"></a>
+</p> 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
-[![Maintenance](https://img.shields.io/maintenance/yes/2021)](https://github.com/prathimacode-hub)
-
-</div>
+<p align="center">
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/stargazers"><img src="https://badgen.net/github/stars/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/network/members"><img src="https://badgen.net/github/forks/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/issues"><img src="https://badgen.net/github/open-issues/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/issues?q=is%3Aissue+is%3Aclosed"><img src="https://badgen.net/github/closed-issues/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/pulls"><img src="https://badgen.net/github/prs/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/pulls"><img src="https://badgen.net/github/open-prs/prathimacode-hub/PyAlgo-Tree"></a>
+<a href="https://github.com/prathimacode-hub/PyAlgo-Tree/pulls?q=is%3Apr+is%3Aclosed"><img src="https://badgen.net/github/closed-prs/prathimacode-hub/PyAlgo-Tree"></a>
+</p>
 
 
 <h2> 📌Repository</h2>
@@ -227,6 +237,9 @@ This project is a part of these open source programs.
   </tr>
 </table>
 
+You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/DCP_SCORECARD.md)** <br>
+**Point to Note** : It will be updated once in 4 days. 
+
 
 <h2>✨Hall Of Fame</h2>   
 
@@ -261,7 +274,6 @@ This project follows the MIT [License](LICENSE)
 <table>
   <tr>
 <td align="center"><a href="https://github.com/Lourdemary"><img src="https://avatars.githubusercontent.com/u/60435111?v=4" width="80px;" alt=""/><br /><sub><b>Lourde Mary T</b></sub></a></td>
-<td align="center"><a href="https://github.com/ankitapuri"><img src="https://avatars.githubusercontent.com/u/54734002?v=4" width="80px;" alt=""/><br /><sub><b>Lourde Mary T</b></sub></a></td>
   </tr>
 </table>
 
@@ -271,6 +283,13 @@ This project follows the MIT [License](LICENSE)
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
+![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
+
+
+<h2>🌟 Stargazers Over Time 🌟</h2>
+
+[![Stargazers over time](https://starchart.cc/prathimacode-hub/PyAlgo-Tree.svg)](https://starchart.cc/prathimacode-hub/PyAlgo-Tree)
+
 
 <h2>⭐Give this Project a Star</h2>
 
@@ -279,6 +298,9 @@ This project follows the MIT [License](LICENSE)
 If you like this project, consider giving a ⭐ to this project and share it as much as you can.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
+
+<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
+</td>
 
 
 <h2>📬 Contact</h2>
