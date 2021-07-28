@@ -1,10 +1,23 @@
-## Check out all the amazing scripts using 'backtracking' here:
+# Backtracking
 
-- [Cryptarithmetic Problem](Cryptarithmetic%20Problem/cryptarithmetic_problem.py)
-- [Graph Coloring Problem](Graph%20Coloring%20Problem/graph_coloring_problem.py)
-- [Hamiltonian Cycle](Hamiltonian%20Cycle/hamiltonian_cycle.py)
-- [Knight's Tour](Knight's%20Tour/knight's_tour.py)
-- [N Queens](N%20Queens/n_queens.py)
-- [Subset Sum](Subset%20Sum/subset_sum.py)
-- [Tic Tac Toe Game](Tic%20Tac%20Toe%20Game/tic_tac_toe_game.py)
-- [Water Jug Problem](Water%20Jug%20Problem/water_jug_problem.py)
+## Check out all the amazing scripts using 'Backtracking' here:
+
+- [Cryptarithmetic Problem](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Backtracking/Cryptarithmetic%20Problem)
+
+- [Graph Coloring Problem](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Backtracking/Graph%20Coloring%20Problem)
+
+- [Hamiltonian Cycle](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Backtracking/Hamiltonian%20Cycle)
+
+- [Knight's Tour](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Backtracking/Knight's%20Tour)
+
+- [N Queens](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Backtracking/N%20Queens)
+
+- [Subset Sum](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Backtracking/Subset%20Sum)
+
+- [Sudoku Solver](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Backtracking/Sudoku%20Solver)
+
+- [Tic Tac Toe Game](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Backtracking/Tic%20Tac%20Toe%20Game)
+
+- [Water Jug Problem](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Backtracking/Water%20Jug%20Problem)
+
+
