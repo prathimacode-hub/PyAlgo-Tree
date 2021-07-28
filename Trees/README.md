@@ -8,3 +8,4 @@
  - [Segment Tree Creation](Segment%20Tree%20Creation/segment_tree_creation.py)
  - [Segment Tree Update Query](Segment%20Tree%20Update%20Query/segment_tree_update_query.py)
  - [Segment Tree Range Sum Query](Segment%20Tree%20Range%20Sum%20Query/segment_tree_sum_range_query.py)
+ - [Binary Search Tree](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Trees/Binary%20Search%20Tree)
