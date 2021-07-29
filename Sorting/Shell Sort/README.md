@@ -44,6 +44,23 @@ Now after final stage the array is in this form:
 10	11	12	15	19	35	44	50
 After the final process the unsorted array is sorted.
 
+### Sample Test Case
+Enter size: 6
+Enter elements:
+5
+4
+3
+2
+1
+0
+
+Sorted Array:
+0
+1
+2
+3
+4
+5
 
 ### Setup instructions
 Just clone the repository .
