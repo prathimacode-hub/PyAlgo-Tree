@@ -1,44 +1,69 @@
-''' This program illustrates the shell sort implementation in Python
+# Python program for implementation of Shell Sort
+'''
+Shell sort is a highly efficient sorting algorithm and is based on insertion sort algorithm. 
+Shell sort is the generalization of insertion sort which overcomes the drawbacks of insertion sort by comparing elements separated by a gap of several positions.
 
- Shell sort or Shell's method, is an in-place comparison sort.
- It can be seen as either a generalization of sorting by exchange (bubble sort) or sorting by
- insertion (insertion sort). The method starts by sorting pairs of elements far apart from each other,
- then progressively reducing the gap between elements to be compared. Starting with far apart elements
- can move some out-of-place elements into position faster than a simple nearest neighbor exchange.
+Shell sort divides the array in the form of N/2 , N/4 , …, 1 (where N is the length of array)
+and then sorting is done. This breaking of sequence and sorting takes place until the entire array is sorted.
+'''
 
-  Best Case O(n logn); Average Case O(depends on gap sequence); Worst Case O(n^2)'''
+def shellSort(arr):
 
+    # Start with a big gap, then reduce the gap
+    size = len(arr)
+    gap = size // 2
 
+    # Do a gapped insertion sort for this gap size.
+    while gap > 0:
 
-def shell_sort(arr):                          #function for shell sort
-    sublistCount = int(len(arr)/2)            
+        for i in range(gap, size):
 
-    while sublistCount > 0:
-        for start in range(sublistCount):
-            do_insertsort_gap(arr,start,sublistCount)
-        sublistCount = int(sublistCount/2)    
-    return arr    
+            # add a[i] to the elements that have been gap sorted
+            # save a[i] in temp and make a hole at position i
+            temp = arr[i]
 
-def do_insertsort_gap(arr,start,gap):
-    for i in range(start+gap,len(arr),gap):
-        currentValue = arr[i]
-        position = i
-        while position >= gap and arr[position-gap] >= currentValue:
-            arr[position] = arr[position-gap]                             # We compare values in each sub-list and swap them (if necessary) in the original array.
-            position = position-gap
-        arr[position] = currentValue        
+            # shift earlier gap-sorted elements up until the correct
+            # location for a[i] is found
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
 
-array = input("Enter the elements of the array separated by space : ")    #Taking input
-array = [int(x) for x in array.split(" ")]                                #string to int conversion
-
-print(f"Array after sorting is : {shell_sort(array)}")                    #printing the output
+            # put temp (the original a[i]) in its correct location
+            arr[j] = temp
+        gap //= 2
 
 
-# sample Test case    
-""" >>> shell_sort([0, 5, 3, 2, 2])
-    [0, 2, 2, 3, 5]
-    >>> shell_sort([])
-    []
-    >>> shell_sort([-2, -5, -45])
-    [-45, -5, -2]
-    """
+arr = []
+size = int(input('Enter size: '))
+print ('Enter elements:')
+for i in range(0, size):
+    item = int(input())
+    arr.append(item)
+
+shellSort(arr)
+
+print ('\nSorted Array:')
+for i in range(size):
+    print (arr[i])
+
+'''
+INPUT 
+Enter size: 5
+Enter elements:
+5
+4
+3
+2
+1
+
+Sorted Array:
+1
+2
+3
+4
+5
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+'''

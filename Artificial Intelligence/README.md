@@ -1,4 +1,8 @@
-## Check out all the amazing scripts related to 'Artificial Intelligence' here:
+# Artificial Intelligence
 
-- [8 Puzzle Problem using A star Algorithm](8%20Puzzle%20Problem%20using%20A%20star%20Algorithm/8_puzzle_problem_using_A_star_algorithm.py)
-- [8 Puzzle Problem using BFS](8%20Puzzle%20Problem%20using%20BFS/8_puzzle_problem_using_BFS.py)
+## Check out all the amazing scripts using 'Artificial Intelligence' here:
+
+- [8 Puzzle Problem using A star Algorithm](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Artificial%20Intelligence/8%20Puzzle%20Problem%20using%20A%20star%20Algorithm)
+
+- [8 Puzzle Problem using BFS](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Artificial%20Intelligence/8%20Puzzle%20Problem%20using%20BFS)
+

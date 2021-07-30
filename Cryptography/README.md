@@ -1,8 +1,15 @@
-## Check out all the amazing "Cryptography " scripts here:
-- [Caesar Cipher](Cryptography/CaesarCipher/caesar_cipher.py)
-- [Reverse Cipher](Cryptography/ReverseCipher/reverse_cipher.py)
-- [Transposition Cipher](Cryptography/TranspositionCipher/transposition_cipher.py)
-- [Brute Forcing Caesar Cipher](Cryptography/BruteForcingCaesarCipher/brute_forcing_caesar_cipher.py)
+# Cryptography
+
+## Check out all the amazing scripts using 'Cryptography' here:
+
+- [Caesar Cipher](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Cryptography/Caesar%20Cipher)
+
+- [Reverse Cipher](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Cryptography/Reverse%20Cipher)
+
+- [Transposition Cipher](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Cryptography/Transposition%20Cipher)
+
+- [Brute Forcing Caesar Cipher](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Cryptography/Brute%20Forcing%20Caesar%20Cipher)
+
 
 
 

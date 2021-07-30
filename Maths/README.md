@@ -1,5 +1,9 @@
-## Check out all the amazing scripts based on 'Maths' here:
+# Machine Learning
 
-- [Average Calculator](Average%20Calculator/average_calculator.py)
-- [Binary Numbers](Binary%20Numbers/binary_numbers.py)
-- [Bitwise AND](Bitwise%20AND/bitwise_AND.py)
+## Check out all the amazing scripts using 'Machine Learning' here:
+
+- [Average Calculator](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Maths/Average%20Calculator)
+
+- [Binary Numbers](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Maths/Binary%20Numbers)
+
+- [Bitwise AND](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Maths/Bitwise%20AND)
