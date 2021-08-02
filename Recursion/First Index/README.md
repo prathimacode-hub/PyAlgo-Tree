@@ -35,6 +35,22 @@ Run the script, after that :
  1. User is prompted to enter size of array followed by array elements and number whose occurrence is to be checked.
  2. First index on which the element occurred is printed.
 
+# Sample Input and output
+## Sample Input 1
+5
+2 3 5 1 2
+2
+
+## Sample output 1
+0
+
+## Sample Input 1
+6
+1 7 1 2 3 2
+5
+
+## Sample Output 2
+-1
 
 # Output
 ![](Images/output1.jpg)
