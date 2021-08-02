@@ -8,4 +8,6 @@
 
 - [Fibonnacci Series](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Recursion/Fibonacci)
 
+- [First Index](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Recursion/First%20Index)
+
 
