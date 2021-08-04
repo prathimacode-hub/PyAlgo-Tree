@@ -42,20 +42,20 @@ For example:
 
  ## Output:
 - Demo 1  
-<img src="./Computer Vision/Face_Recognition/Output/Output1.png">
+<img src="../Face_Recognition/Output/Output1.png">
 
 - Demo 2 
-<img src="./Computer Vision/Face_Recognition/Output/Output2.png">
+<img src="../Face_Recognition/Output/Output2.png">
 
 - Demo 3 
-<img src="./Computer Vision/Face_Recognition/Output/Outout3.png">
+<img src="../Face_Recognition/Output/Outout3.png">
 
 - CSV data 
         - Name and time
-<img src="./Computer Vision/Face_Recognition/Output/Name_list.png">
-<img src="./Computer Vision/Face_Recognition/Output/Name_list_entry.png">
+<img src="../Face_Recognition/Output/Name_list.png">
+<img src="../Face_Recognition/Output/Name_list_entry.png">
 
 ## Author
 [Sanjay N T](https://github.com/sanjay-nt)
-:Date: 2021-07-22
+:Date: 2021-08-04
 
