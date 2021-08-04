@@ -16,7 +16,7 @@ The purpose is to Build A Real-Time Face Recognition End-To-End Project.
 - This project is done with this fantastic “Open Source Computer Vision Library”, the OpenCV.
 - OpenCV
         - OpenCV was designed for computational efficiency and with a strong focus on     real-time applications. So, it’s perfect for real-time face recognition using a camera.
-Documentation-  <https://docs.opencv.org/master/>
+<br>Documentation-  <https://docs.opencv.org/master/>
 
 ## Workflow of the Project
 * There are 4 phases in this project.
@@ -26,7 +26,7 @@ Documentation-  <https://docs.opencv.org/master/>
     - Record Name and Time in an external CSV file.
 
 * Working Block Diagram
-<img src="../Computer Vision/Face_Recognition/block Diagram.png">
+<img src="../Face_Recognition/Output/block Diagram.png">
          
  ## Execution 
  - OpenCV Installation On windows<br>
@@ -42,18 +42,18 @@ For example:
 
  ## Output:
 - Demo 1  
-<img src="../Computer Vision/Face_Recognition/Output/Output1.png">
+<img src="./Computer Vision/Face_Recognition/Output/Output1.png">
 
 - Demo 2 
-<img src="../Computer Vision/Face_Recognition/Output/Output2.png">
+<img src="./Computer Vision/Face_Recognition/Output/Output2.png">
 
 - Demo 3 
-<img src="../Computer Vision/Face_Recognition/Output/Outout3.png">
+<img src="./Computer Vision/Face_Recognition/Output/Outout3.png">
 
 - CSV data 
         - Name and time
-<img src="../Computer Vision/Face_Recognition/Output/Name_list.png">
-<img src="../Computer Vision/Face_Recognition/Output/Name_list_entry.png">
+<img src="./Computer Vision/Face_Recognition/Output/Name_list.png">
+<img src="./Computer Vision/Face_Recognition/Output/Name_list_entry.png">
 
 ## Author
 [Sanjay N T](https://github.com/sanjay-nt)
