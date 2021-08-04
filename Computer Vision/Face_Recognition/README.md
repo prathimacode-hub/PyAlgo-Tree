@@ -16,6 +16,7 @@ The purpose is to Build A Real-Time Face Recognition End-To-End Project.
 - This project is done with this fantastic “Open Source Computer Vision Library”, the OpenCV.
 - OpenCV
         - OpenCV was designed for computational efficiency and with a strong focus on     real-time applications. So, it’s perfect for real-time face recognition using a camera.
+Documentation-  <https://docs.opencv.org/master/>
 
 ## Workflow of the Project
 * There are 4 phases in this project.
@@ -24,44 +25,35 @@ The purpose is to Build A Real-Time Face Recognition End-To-End Project.
     - Face Recognition 
     - Record Name and Time in an external CSV file.
 
-* The Array Operations,
-    - Operations,
-        - append(), 
-            - Method used to input element to the end of array.
-        - insert(), 
-            - Method used to input element in to a specific location of the array.
-        - pop(), 
-            - Method used to pop element at a particular location of the array. 
-
-        - remove(), 
-            - Method used to remove a particular element in an array. 
+* Working Block Diagram
+<img src="../Computer Vision/Face_Recognition/block Diagram.png">
          
+ ## Execution 
+ - OpenCV Installation On windows<br>
+ <code>pip install opencv-python</code><br>
+ - Import the package<br>
+ <code>import cv2</code><br>
+
+All packages contain Haar cascade files. cv2.data.haarcascades can be used as a shortcut to the data folder. <br>
+For example: 
+<code>cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")</code><br>
+- Download the Source code, open in Pycharm IDE and configure the scripy file under the python interpreter
+- Run the script
+
  ## Output:
-Test case 1:
-- Lets create an array of size 3 
-<img src="../Array Operations/Images/Output1_part1.png">
+- Demo 1  
+<img src="../Computer Vision/Face_Recognition/Output/Output1.png">
 
-- Operation 1 printing the array created  
-<img src="../Array Operations/Images/Output1_part2.png">
+- Demo 2 
+<img src="../Computer Vision/Face_Recognition/Output/Output2.png">
 
-- Operation 2 Adding Integer element to array using append  
-    - We are adding 4 to array
-<img src="../Array Operations/Images/Output1_part3.png">
+- Demo 3 
+<img src="../Computer Vision/Face_Recognition/Output/Outout3.png">
 
-- Operation 3 Adding Integer element to array using insert
-    - We are adding 5 to index 2 of array 
-<img src="../Array Operations/Images/Output1_part4.png">
-
-- Operation 4 removing Integer element from array using pop
-    - We are removing the element at index 2
-<img src="../Array Operations/Images/Output1_part5.png">
-
-- Operation 5 removing Integer element from array using remove
-    - We are removing the element 2
-<img src="../Array Operations/Images/Output1_part6.png">
-
-- Operation 6 exit
-<img src="../Array Operations/Images/Output1_part7.png">
+- CSV data 
+        - Name and time
+<img src="../Computer Vision/Face_Recognition/Output/Name_list.png">
+<img src="../Computer Vision/Face_Recognition/Output/Name_list_entry.png">
 
 ## Author
 [Sanjay N T](https://github.com/sanjay-nt)
