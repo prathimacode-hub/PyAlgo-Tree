@@ -1,25 +1,28 @@
-# Face-Recognition-System
 
-- An array is a collection of similar type items stored at contiguous memory locations.  This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array. The base value is index 0 and the difference between the two indexes is the offset. 
-- In python array is implemented using list data structure.
+# Face-Recognition-System
+- Face recognition is a method of identifying or verifying the identity of an individual using their face. Face recognition systems can be used to identify people in photos, video, or in real-time.
+- Face recognition systems use computer algorithms to pick out specific, distinctive details about a person’s face. These details, such as distance between the eyes or shape of the chin, are then converted into a mathematical representation and compared to data on other faces collected in a face recognition database.
+
 
 ## Aim
-To implement Array data structure in Python.
+To develop a Face Recognition System using openCV and record the Name and Time of the person's apperance in front of the camera.
 
 
 ## Purpose
-The purpose is to create an data structure to array and demonstrate the operations.
+The purpose is to Build A Real-Time Face Recognition End-To-End Project.
 
 
 ## Short Description
-Array:
-- An array is a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together.
-- In the code I have used array module to create arrays and performed operations on then.
-
+- This project is done with this fantastic “Open Source Computer Vision Library”, the OpenCV.
+- OpenCV
+        - OpenCV was designed for computational efficiency and with a strong focus on     real-time applications. So, it’s perfect for real-time face recognition using a camera.
 
 ## Workflow of the Project
-- Under Array Operations --> Array_operations.py python script file is present. This file is the main python program file which contails the code.
-- I have initially created a array of integer type and performed operations on the same. The operation are creating, adding element and deleting element using the built in methods.
+* There are 4 phases in this project.
+    - Face Detection and Data Gathering
+    - Train the Recognizer
+    - Face Recognition 
+    - Record Name and Time in an external CSV file.
 
 * The Array Operations,
     - Operations,
