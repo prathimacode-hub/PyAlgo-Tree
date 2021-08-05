@@ -26,7 +26,10 @@ The purpose is to Build A Real-Time Face Recognition End-To-End Project.
     - Record Name and Time in an external CSV file.
 
 * Working Block Diagram
-<img src="../Face_Recognition/Output/block Diagram.png">
+<img src=".././Images/Output/Name_list.png">
+
+
+
          
  ## Execution 
  - OpenCV Installation On windows<br>
@@ -42,7 +45,7 @@ For example:
 
  ## Output:
 - Demo 1  
-<img src="../Face_Recognition/Output/Output1.png">
+<img src="../Face Recognition/Images/Output/output1.png">
 
 - Demo 2 
 <img src="../Face_Recognition/Output/Output2.png">
