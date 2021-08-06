@@ -1,15 +1,15 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 56
-## Total Number of Contributors : 15
+## Total Number Of PR's : 59
+## Total Number of Contributors : 16
 
   
 Name : Siddhi Bhanushali <br>
 Github : https://github.com/siddhi-244 <br>
-Number of PR's : 6 <br>
-Projects Done : Bubble Sort (Level 1) | Selection Sort (Level 1) | Binary Search (Level 1) | Linear Search (Level 1) | All Array Indices (Level 1) | First Index (Level 1) | <br>
-Points : 60 <br>
+Number of PR's : 7 <br>
+Projects Done : Bubble Sort (Level 1) | Selection Sort (Level 1) | Binary Search (Level 1) | Linear Search (Level 1) | All Array Indices (Level 1) | First Index (Level 1) | Last index (Level 1) | <br>
+Points : 70 <br>
 
 Name : Manasi Chibber <br>
 Github : https://github.com/Manasi2001 <br>
@@ -67,9 +67,9 @@ Points : 10 <br>
 
 Name : Sanjay NT <br>
 Github : https://github.com/SANJAY-NT <br>
-Number of PR's : 1 <br>
-Projects Done : Array Operations (Level 1) | <br>
-Points : 10 <br>
+Number of PR's : 2 <br>
+Projects Done : Array Operations (Level 1) | Face Recognition (Level 2) | <br>
+Points : 30 <br>
 
 Name : Ayushi Shrivastava <br>
 Github : https://github.com/ayushi424 <br>
@@ -95,3 +95,8 @@ Number of PR's : 2 <br>
 Projects Done : RSA/EL Gamal Cryptosystem (Level 2) | Diffie Hellman Algo (Level 1) | <br>
 Points : 30 <br>
 
+Name : Manvitha Ramineni <br>
+Github : https://github.com/manvitha3579 <br>
+Number of PR's : 1 <br>
+Projects Done : Affine Cipher (Level 2) | <br>
+Points : 20 <br>
