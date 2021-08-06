@@ -37,3 +37,8 @@ Add all the libraries you had used to explain this algorithm
 **CONCLUSION**
 
 What's the conclusion on this algorithm
+
+**YOUR NAME**
+
+Add your full along with social media handles if applicable
+
