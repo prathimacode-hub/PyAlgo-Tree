@@ -26,7 +26,7 @@ The purpose is to Build A Real-Time Face Recognition End-To-End Project.
     - Record Name and Time in an external CSV file.
 
 * Working Block Diagram
-<img src=".././Images/Output/Name_list.png">
+<img src=".././Images/block Diagram.png">
 
 
 
@@ -45,18 +45,18 @@ For example:
 
  ## Output:
 - Demo 1  
-<img src="../Face Recognition/Images/Output/output1.png">
+<img src=".././Images/Output/output1.png">
 
 - Demo 2 
-<img src="../Face_Recognition/Output/Output2.png">
+<img src=".././Images/Output/output2.png">
 
 - Demo 3 
-<img src="../Face_Recognition/Output/Outout3.png">
+<img src=".././Images/Output/outout3.png">
 
 - CSV data 
         - Name and time
-<img src="../Face_Recognition/Output/Name_list.png">
-<img src="../Face_Recognition/Output/Name_list_entry.png">
+<img src=".././Images/Output/Name_list.png">
+<img src=".././Images/Output/Name_list1.png">
 
 ## Author
 [Sanjay N T](https://github.com/sanjay-nt)
