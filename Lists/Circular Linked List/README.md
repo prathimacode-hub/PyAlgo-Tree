@@ -9,6 +9,10 @@ Short description of script
 A circular linked list is a sequence of individual data elements called Nodes, which are connected via links. Each data element contains a connection to another data element in the form of a pointer
 A circular linked lists differs from a singly linked list because instead of the last node pointing to a null value, it instead points back to the head node.
 
+Data Structure	        Average Insert	Average Delete	Average Search	Worst Insert	Worst Delete	Worst Search
+Circular Linked List	    O(1)	        O(1)	        O(n)	        O(1)	        O(1)	        O(n)
+
+
 Workflow of the Project
 This script contains a class named Circular linked list. 
 The Circular Linked List class contains,
