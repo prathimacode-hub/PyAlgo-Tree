@@ -237,6 +237,10 @@ This project is a part of these open source programs.
   </tr>
 </table>
 
+Once your **PR is merged**, make sure you fill up this form.
+
+**Form Link** : https://docs.google.com/forms/d/e/1FAIpQLScBzeTg4HA0pIGtP6tHaiVUdPbAm9Y3kMn75GBGXvQVQv6wPA/viewform
+
 You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/DCP_SCORECARD.md)** <br>
 **Point to Note** : It will be updated once in 4 days. 
 
