@@ -1,8 +1,8 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 59
-## Total Number of Contributors : 16
+## Total Number Of PR's : 62
+## Total Number of Contributors : 17
 
   
 Name : Siddhi Bhanushali <br>
@@ -13,9 +13,9 @@ Points : 70 <br>
 
 Name : Manasi Chibber <br>
 Github : https://github.com/Manasi2001 <br>
-Number of PR's : 18 <br>
-Projects Done : Water Jug Problem (Level 3) | Tic Tac Toe Game (Level 3) | N Queens (Level 1) | Knight's Tour (Level 2) | Hamiltonian Cycyle (Level 2) | Cryptarithmetic Problem (Level 2) | Graph Colouring Problem (Level 2) | Subset Sum (Level 1) | 8 Puzzle Problem using A Star Algorithm (Level 3) | 8 Puzzle Problem using BSF (Level 3) | Average Calculator (Level 1) | Bad String (Level 0) | Binary Numbers (Level 1) | Bitwise AND (Level 1) | BST Level Order Traversal (Level 1) | Capitalizing (Level 0) | Depth First Search (Level 2) | Divisor Sum (Level 1) | <br>
-Points : 340 <br>
+Number of PR's : 19 <br>
+Projects Done : Water Jug Problem (Level 3) | Tic Tac Toe Game (Level 3) | N Queens (Level 1) | Knight's Tour (Level 2) | Hamiltonian Cycyle (Level 2) | Cryptarithmetic Problem (Level 2) | Graph Colouring Problem (Level 2) | Subset Sum (Level 1) | 8 Puzzle Problem using A Star Algorithm (Level 3) | 8 Puzzle Problem using BSF (Level 3) | Average Calculator (Level 1) | Bad String (Level 0) | Binary Numbers (Level 1) | Bitwise AND (Level 1) | BST Level Order Traversal (Level 1) | Capitalizing (Level 0) | Depth First Search (Level 2) | Divisor Sum (Level 1) | Height of BST (Level 2) | <br>
+Points : 360 <br>
 
 Name : Thejaswin S <br>
 Github : https://github.com/thejaswin123 <br>
@@ -97,6 +97,14 @@ Points : 30 <br>
 
 Name : Manvitha Ramineni <br>
 Github : https://github.com/manvitha3579 <br>
+Number of PR's : 2 <br>
+Projects Done : Affine Cipher (Level 2) | Round Robin Scheduling (Level 2) | <br>
+Points : 40 <br>
+
+Name : Vishvarana <br>
+Github : https://github.com/vishvarana <br>
 Number of PR's : 1 <br>
-Projects Done : Affine Cipher (Level 2) | <br>
+Projects Done : Circular Linked List Traversal (Level 2) | <br>
 Points : 20 <br>
+
+
