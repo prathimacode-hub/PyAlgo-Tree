@@ -206,7 +206,7 @@ This project is a part of these open source programs.
  
 <tr>
  <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/DevIncept%20Contribution%20Program/DevIncept.jpg" width=150px height=150px /></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://user-images.githubusercontent.com/54024433/125442861-013b33c2-35c1-46b0-8390-d6a6e2f038ab.jpg" width=150px height=150px /></a> 
  </td>
 </tr>
 </table>
@@ -277,14 +277,14 @@ This project follows the MIT [License](LICENSE)
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/Lourdemary"><img src="https://avatars.githubusercontent.com/u/60435111?v=4" width="80px;" alt=""/><br /><sub><b>Lourde Mary T</b></sub></a></td>
+<td align="center"><a href="https://github.com/Lourdemary"><img src="https://avatars.githubusercontent.com/u/60435111?v=4" width="100px;" alt=""/><br /><sub><b>Lourde Mary T</b></sub></a></td>
   </tr>
 </table>
 
 
 <h2> 😎 Project Admin</h2>
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width=100px height=100px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
