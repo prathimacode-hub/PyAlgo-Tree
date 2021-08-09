@@ -37,7 +37,7 @@ The maximum water stored is printed.
 
 ## Output
 
-![](Images/ouputimg5.jpg)
+![](Images/outputimg5.jpg)
 
 
 ## Author
