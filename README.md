@@ -212,39 +212,6 @@ This project is a part of these open source programs.
 </table>
 
 
-<h2>🙌Levels & Points (DCP)</h2>
-
-<table>
-  <tr>
-    <th>Level</th>
-    <th>Points</th> 
-  </tr>
-  <tr>
-    <td>Level 0</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Level 1</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Level 2</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>Level 3</td>
-    <td>40</td>
-  </tr>
-</table>
-
-Once your **PR is merged**, make sure you fill up this form.
-
-**Form Link** : https://docs.google.com/forms/d/e/1FAIpQLScBzeTg4HA0pIGtP6tHaiVUdPbAm9Y3kMn75GBGXvQVQv6wPA/viewform
-
-You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/DCP_SCORECARD.md)** <br>
-**Point to Note** : It will be updated once in 4 days. 
-
-
 <h2>✨Hall Of Fame</h2>   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
@@ -262,7 +229,6 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-
 <h2>📜 Code Of Conduct</h2>
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/CODE_OF_CONDUCT.md).
@@ -271,15 +237,6 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/PyAl
 <h2> 📝License</h2>
 
 This project follows the MIT [License](LICENSE)
-
-
-<h2>✔Mentors(DevIncept)</h2>
-
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/Lourdemary"><img src="https://avatars.githubusercontent.com/u/60435111?v=4" width="100px;" alt=""/><br /><sub><b>Lourde Mary T</b></sub></a></td>
-  </tr>
-</table>
 
 
 <h2> 😎 Project Admin</h2>
