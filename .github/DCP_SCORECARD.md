@@ -1,15 +1,15 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 63
+## Total Number Of PR's : 64
 ## Total Number of Contributors : 17
 
   
 Name : Siddhi Bhanushali <br>
 Github : https://github.com/siddhi-244 <br>
-Number of PR's : 7 <br>
-Projects Done : Bubble Sort (Level 1) | Selection Sort (Level 1) | Binary Search (Level 1) | Linear Search (Level 1) | All Array Indices (Level 1) | First Index (Level 1) | Last index (Level 1) | <br>
-Points : 70 <br>
+Number of PR's : 8 <br>
+Projects Done : Bubble Sort (Level 1) | Selection Sort (Level 1) | Binary Search (Level 1) | Linear Search (Level 1) | All Array Indices (Level 1) | First Index (Level 1) | Last index (Level 1) | Trapping Rainwater (Level 1) | <br>
+Points : 80 <br>
 Email Id : siddhibhanushali1234@gmail.com
 
 Name : Manasi Chibber <br>
@@ -115,7 +115,7 @@ Github : https://github.com/manvitha3579 <br>
 Number of PR's : 2 <br>
 Projects Done : Affine Cipher (Level 2) | Round Robin Scheduling (Level 2) | <br>
 Points : 40 <br>
-Email Id : 
+Email Id : manvi.raminenic@gmail.com
 
 Name : Vishva Rana <br>
 Github : https://github.com/vishvarana <br>
