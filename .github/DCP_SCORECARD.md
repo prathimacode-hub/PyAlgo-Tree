@@ -96,7 +96,7 @@ Projects Done : Quick Sort (Level 1) | Shell Sort (Level 1) | <br>
 Points : 20 <br>
 Email Id : nehajha12150@gmail.com
 
-Name : Nallani Durg Sai <br>
+Name : Nallani Durga Sai <br>
 Github : https://github.com/DurgaSai-16 <br>
 Number of PR's : 1 <br>
 Projects Done : Vigenere Cipher (Level 2) | <br>
