@@ -202,7 +202,7 @@ Elaborate your **README** briefly about how it works by showing step by step pro
 
 <h2>👍OpenSource Program</h2>
 
-This project is a part of these open source programs.
+This project was a part of this open source program.
  
 <tr>
  <td>
