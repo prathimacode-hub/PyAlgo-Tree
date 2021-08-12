@@ -239,6 +239,15 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/PyAl
 This project follows the MIT [License](LICENSE)
 
 
+<h2>✔Project Maintainer</h2>
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/Manasi2001"><img src="https://avatars.githubusercontent.com/u/68627617?v=4" width="80px;" alt=""/><br /><sub><b>Manasi Chhibber</b></sub></a></td>
+  </tr>
+</table>
+
+
 <h2> 😎 Project Admin</h2>
 
 <a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width=100px height=100px /></a>
