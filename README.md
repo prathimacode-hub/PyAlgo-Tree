@@ -203,10 +203,14 @@ Elaborate your **README** briefly about how it works by showing step by step pro
 <h2>👍OpenSource Program</h2>
 
 This project was a part of this open source program.
- 
+
+<table>
 <tr>
  <td>
 <a href="https://github.com/prathimacode-hub"><img src="https://user-images.githubusercontent.com/54024433/125442861-013b33c2-35c1-46b0-8390-d6a6e2f038ab.jpg" width=150px height=150px /></a> 
+ </td>
+ <td>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Hacktober%20Fest/Hacktoberfest-2021.jpg" width=140px height=60px /></a>
  </td>
 </tr>
 </table>
