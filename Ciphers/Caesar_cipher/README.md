@@ -31,10 +31,14 @@ To Implement the Ceaser cipher
 # Outputs
 
 ### Output 1
-![] (https://github.com/manthan0227/PyAlgo-Tree/blob/main/Ciphers/Caesar_cipher/Images/Output_1.png)
+![Output_1](https://user-images.githubusercontent.com/78487398/135653838-f537c782-875b-4c1a-aef7-3dd7dc8c315b.png)
+
 
 ### Output 2
-![] (https://github.com/manthan0227/PyAlgo-Tree/blob/main/Ciphers/Caesar_cipher/Images/Output_2.png)
+![Output_2](https://user-images.githubusercontent.com/78487398/135654075-6a373e48-ecb1-403f-8da5-520ed9eb31d9.png)
+
 
 ### Output 3
-![] (https://github.com/manthan0227/PyAlgo-Tree/blob/main/Ciphers/Caesar_cipher/Images/Output_3.png)
+![Output_3](https://user-images.githubusercontent.com/78487398/135654147-e97beaed-c5d0-4d8c-8548-6ec2a6df17d1.png)
+
+
