@@ -38,6 +38,10 @@ Recursion tree for Knapsack capacity 2
 units and 3 items of 1 unit weight.
 ```
 
+## 💻 Input and Output
+![](https://github.com/abhisheks008/PyAlgo-Tree/blob/main/Knapsack/0-1%20Knapsack/Images/knapsack2.PNG)
+
+
 ## ⏰ Complexity Analysis: 
 - **Time Complexity:** `O(2^n)`. [As there are redundant subproblems.]
 - **Auxiliary Space :** `O(1)`. [As no extra data structure has been used for storing values.]
