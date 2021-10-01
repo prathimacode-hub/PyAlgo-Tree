@@ -2,7 +2,7 @@
 
 - Info about the related issue 
 
-- [ ] DevIncept Participant 
+- [ ] Hacktoberfest2021 Participant 
 - [ ] Contributor
 
 Closes: #issue number that will be closed through this PR
