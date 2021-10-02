@@ -1,5 +1,9 @@
-# 0/1 Knapsack
-Language used : **Python3**
+<div align="center"><h1>0/1 Knapsack</h1>
+<img src="./Images/knapsack_cover_pic.jpg">
+</div></br>
+
+Language used : **Python3**</br>
+Source code : [python file](https://github.com/NeerajHazarika/PyAlgo-Tree/blob/main/Dynamic%20Programming/0%201%20Knapsack/01_knapsack.py)
 
 ## 🎯 Aim
 To maximize profit/value in 0/1 Knapsack Problem
