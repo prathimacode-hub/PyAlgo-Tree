@@ -25,7 +25,7 @@ Output :
 A basic brute-force solution could be to try all combinations of the given items, allowing us to choose the one with maximum profit and a weight that doesn’t exceed ‘W.’ Take the example of 3 items, as shown in the diagram below. To try all the combinations, our algorithm will look like:
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/72177954/135701909-41ccb37f-6280-4fec-b144-de4a48989b24.jpg">
+<img src="./Images/tree_dig.jpg">
 </div></br>
 
 We can optimize this algorithm further with a 2D matrix. We can overcome the problem of calculating redundant cases and thus increased complexity. We can solve this problem by simply creating a 2-D array that can store a particular state (n, w) if we get it the first time. Now if we come across the same state (n, w) again instead of calculating it in exponential complexity we can directly return its result stored in the table in constant time. This method gives an edge over the recursive approach in this aspect.
@@ -138,11 +138,11 @@ We have reached our solution for max profit (with max weight capacity = 6) at DP
 ## 💻 Input and Output 
 - **Test Case 1 :**
 
-![io 1](https://user-images.githubusercontent.com/72177954/135707806-ee72b296-541a-462a-ab9f-d3e4fabc31b8.png)
+![io 1](./Images/io_1.png)
 
 - **Test Case 2 :**
 
-![io 2](https://user-images.githubusercontent.com/72177954/135707940-3e153cc4-d1cd-4bc2-b518-f8a1bb294ed3.png)
+![io 2](./Images/io_2.png)
 
 ## ⏰ Time and Space complexity
 - **Time Complexity:** `O(N*W)`. 
