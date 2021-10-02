@@ -24,6 +24,15 @@ Length of the LCS: 4
 - Otherwise we check, if next charcter is match to the this charcter than we go to that side and decrease the size of the string and add one to our answer.
 - At the last we get the length of the longest common subsequence.
 
+### Outputs
+ Test 1
+ 
+ ![TEST_1](https://user-images.githubusercontent.com/78487398/135711567-6d57c89e-e872-4a89-9bdb-7e486eeb30c5.png)
+ 
+ Test 2
+ 
+ ![TEST_2](https://user-images.githubusercontent.com/78487398/135711569-b93c7e53-b888-4919-8b95-2d3733bbdab0.png)
+ 
 ### Time and Space Complexity
 - Time Complexity: `O(len_of_string1*len_of_string2)`
 - Space Complexity:`O(len_of_the_lcs)` 
