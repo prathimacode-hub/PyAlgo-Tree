@@ -14,7 +14,7 @@ The main prupose is to give a clear understanding on what basically KNN Classifi
 2. Data training using train-test-split method from sklearn to split the data into training and testing data and then  Model creation using decision tree classifier algorithm, where we import the model, then initialize it and fit training data into it and lastly perform predictions on the test data.
 
 
-5.  Checking performance by error and accuracy check to find how efficient algorithm performed for this project.
+3.  Checking performance by error and accuracy check to find how efficient algorithm performed for this project.
 
    
 **ScreenShots**
@@ -27,8 +27,6 @@ The main prupose is to give a clear understanding on what basically KNN Classifi
 
 **LIBRARIES USED**
 - pandas
-- matplotlib
-- seaborn
 - sklearn
 - numpy
 
