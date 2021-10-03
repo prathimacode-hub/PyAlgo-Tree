@@ -2,7 +2,7 @@
 
 **PURPOSE**
 
-The main prupose is to give a clear understanding on what basically KNN Classifier algorithm is all about, its working, usage, libaries used, advantages, disadvantages etc.
+The main prupose is to give a clear understanding on what basically KNN Classifier algorithm is all about, its working, usage, libaries used, advantages, disadvantages etc by a project as movie classification.
 
 
 
@@ -18,7 +18,13 @@ The main prupose is to give a clear understanding on what basically KNN Classifi
 
    
 **ScreenShots**
-![]()
+![](https://github.com/ayushi424/PyAlgo-Tree/blob/main/Machine%20Learning/Movie%20Classification/Images/knn1.jpg)
+![](https://github.com/ayushi424/PyAlgo-Tree/blob/main/Machine%20Learning/Movie%20Classification/Images/knn2.jpg)
+![](https://github.com/ayushi424/PyAlgo-Tree/blob/main/Machine%20Learning/Movie%20Classification/Images/knn5.jpg)
+![](https://github.com/ayushi424/PyAlgo-Tree/blob/main/Machine%20Learning/Movie%20Classification/Images/knn6.jpg)
+
+
+
 **LIBRARIES USED**
 - pandas
 - matplotlib
