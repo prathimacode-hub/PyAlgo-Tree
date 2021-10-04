@@ -3,8 +3,8 @@
 </div></br>
 
 Language used : **Python3**</br>
-Source code : [python file](https://github.com/NeerajHazarika/PyAlgo-Tree/blob/main/Dynamic%20Programming/0%201%20Knapsack/01_knapsack.py)
-
+Source code 1 : [python file](https://github.com/NeerajHazarika/PyAlgo-Tree/blob/Count-set-bits-in-an-integer/Bit%20Manipulation/Count%20Set%20Bits%20in%20an%20integer/brute_approach.py) </br>
+Source code 2 : [python file](https://github.com/NeerajHazarika/PyAlgo-Tree/blob/Count-set-bits-in-an-integer/Bit%20Manipulation/Count%20Set%20Bits%20in%20an%20integer/brian_kernighans_algo.py)
 ## 🎯 Aim
 To count the number of set bits in an integer
 
