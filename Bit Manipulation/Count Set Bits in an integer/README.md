@@ -1,5 +1,5 @@
 <div align="center"><h1>Count Set Bits in an integer</h1>
-<img src="https://user-images.githubusercontent.com/72177954/135797779-b3246c70-c60f-4798-afe6-9dc7dafd52e8.png">
+<img src="./Images/cover_pic.png">
 </div></br>
 
 Language used : **Python3**</br>
