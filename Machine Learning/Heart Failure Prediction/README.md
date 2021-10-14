@@ -28,6 +28,16 @@ classification techniques.
 11. ST_Slope: the slope of the peak exercise ST segment 
 12. HeartDisease: output class [1: heart disease, 0: Normal]
 
+# Workflow
+1. Importing Required Libraries
+2. Load the Dataset
+3. EDA(Exploratory Data Analysis
+4. Data Cleaning and preprocessing
+5. Data Visualization
+6. Training the model 
+7. Predict the accuracies of all 6 classifiers
+8. Comparing performance of the models
+
 # Advantages of Heart Failure Prediction
 1. Increased accuracy for effective heart
 disease diagnosis.
