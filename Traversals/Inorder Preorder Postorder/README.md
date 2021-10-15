@@ -44,6 +44,6 @@
     -> In Postorder Traversal, the traversing is done in the AB+ fashion.
 
 # Output
-![Output](./images/output.png)
+![Output](./Images/output.png)
 
 <p align = "center">--- Contributed with 🧡 by <a href = "https://github.com/motasimmakki">Motasim</a> ---</p>
