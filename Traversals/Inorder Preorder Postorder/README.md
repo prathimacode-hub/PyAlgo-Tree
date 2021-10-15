@@ -30,6 +30,18 @@
 
     1. The tree is made manually here, to focus on traversal part.
     2. The program is then run to print the Inorder, Preorder, and Postorder traversal of the tree.
+    
+## Conclusion:
+    There are three standard traversal for traversing in a Binary tree:
+
+    1. Inorder,
+    2. Preorder, and
+    3. Postorder
+    
+    If we consider 'A' as the left child, '+' as the root node, and 'B' as the right child, then
+    -> In Inorder Traversal, the traversing is done in the A+B fashion.
+    -> In Preorder Traversal, the traversing is done in the +AB fashion.
+    -> In Postorder Traversal, the traversing is done in the AB+ fashion.
 
 # Output
 ![Output](./images/output.png)
