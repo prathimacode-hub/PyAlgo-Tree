@@ -38,6 +38,21 @@ classification techniques.
 7. Predict the accuracies of all 6 classifiers
 8. Comparing performance of the models
 
+# Data Visualization
+ROC Curves of models.
+1. Random Forest Classifier<br>
+![](Image/Random%20Forest%20Classifier.png)<br>
+2. K Nearest Neighbour<br>
+![](Image/KNN.png)<br>
+3. Decision Tree Classifier<br>
+![](Image/Decision%20Tree%20Classifier.png)<br>
+4. Gradient Boosting Classifier<br>
+![](Image/Gradient%20Boosting.png)<br>
+5. .Logistic Regression<br>
+![](Image/Logistic%20Regression.png)<br>
+6. SVM(Support Vector Machine)<br>
+![](Image/SVM.png)<br>
+
 # Advantages of Heart Failure Prediction
 1. Increased accuracy for effective heart
 disease diagnosis.
