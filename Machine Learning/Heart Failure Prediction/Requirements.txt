@@ -1,0 +1,5 @@
+Libraries imported in the Heart Failure Prediction:
+1.pandas
+2.matplotlib
+3.seaborn
+4.plotly
