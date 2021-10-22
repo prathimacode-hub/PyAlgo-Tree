@@ -28,4 +28,11 @@ Length of the LCS: 4
 - Time Complexity: `O(len_of_string1*len_of_string2)`
 - Space Complexity:`O(len_of_the_lcs)` 
 
+## 💻 Input and Output 
+- **Test Case 1 :**
 
+![](https://github.com/manthan0227/PyAlgo-Tree/blob/main/Dynamic%20Programming/Longest%20Common%20Subsequence/Images/TEST_1.png)
+
+- **Test Case 2 :**
+
+![](https://github.com/manthan0227/PyAlgo-Tree/blob/main/Dynamic%20Programming/Longest%20Common%20Subsequence/Images/TEST_2.png)
