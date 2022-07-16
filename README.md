@@ -65,6 +65,13 @@ To make your learning journey more fruitful, I had created an open source projec
 Drop me a private message, if this project enriched your skills better and made you progress in building up your own projects in python. Any queries, feel free to ask. I would be happy to assist you.
 
 
+If you worked on or want to initiate a your script and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING_GUIDELINES](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/CONTRIBUTING_GUIDELINES.md)👩‍💻
+
+When raising an issue, do make sure to mention the kind of script, project title, short description of the project and what it does and the purpose of it. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
+
+Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+
 ## 💡 Table Of Contents
 
 - [Algebra](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Algebra)
@@ -114,14 +121,7 @@ Drop me a private message, if this project enriched your skills better and made 
 - [Unix](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Unix)
 
 
-If you worked on or want to initiate a your script and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING_GUIDELINES](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/CONTRIBUTING_GUIDELINES.md)👩‍💻
-
-When raising an issue, do make sure to mention the kind of script, project title, short description of the project and what it does and the purpose of it. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
-
-Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-
-## 🌱 Pre-requisites
+## 🌱 Pre-Requisites
 
 - Python IDE : Install it by using this link [python.org](https://www.python.org/downloads/)
 - If you are new to python programming and want to have a fair knowledge before you start working on it, you can learn it in a simplified way through this [repo](https://github.com/prathimacode-hub/Learn-Python-For-Beginners).  
