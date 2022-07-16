@@ -1,4 +1,6 @@
-# Welcome to PyAlgo-Tree 👋
+<div align="center">
+  <h1>Welcome to PyAlgo-Tree 👋🧵</h1>
+</div>
 
 <p align="center">
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/PyAlgo-Tree.png"></a>
@@ -23,32 +25,32 @@
 </p>
 
 
-<h2> 📌Repository</h2>
+## 📌 Repository
 
 This project aims to be a finest hub of various data structures and algorithms you need to know in python across different topics and fields.  
 
 You can get all the wisdom here about data structures and algorithms before you dive into real time projects. Let's get a short intro to it.
 
 
-## 📍Data Structures & Algorithms
+## 📍 Data Structures & Algorithms
 
 Data structures & Algorithms are an essential part of programming. It comes under the fundamentals of computer science. It gives us the advantage of writing better and efficient code in less time. It's a key topic when it comes to Software Engineering. So as developers, we must have knowledge of Data Structure and Algorithms
 
 
-## 📍Data Structures
+## Data Structures
 
 In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.
 Data structure is a way or a format how your data is stored in memory for effecient usage and retrieval.
 
 
-## 📍Algorithms
+## Algorithms
 
 An algorithm is a set of instructions that are used to accomplish a task, such as finding the largest number in a list, removing all the red cards from a deck of playing cards, sorting a collection of names, figuring out an average movie rating from just your friend's opinion
 
 Algorithms are not limited to computers. They are like a set of step-by-step instructions or an even a recipe, containing things you need, steps to do, the order to do them, conditions to look for, and expected results.
 
 
-<h2> 🙌Join Here</h2>
+## 🙌 Join Here
 
 Anyone related to technology who are looking to contribute to open-source, are all invited to hop in. This place has a task for everyone.
 
@@ -63,7 +65,7 @@ To make your learning journey more fruitful, I had created an open source projec
 Drop me a private message, if this project enriched your skills better and made you progress in building up your own projects in python. Any queries, feel free to ask. I would be happy to assist you.
 
 
-<h2> 💡Table Of Contents</h2>
+## 💡 Table Of Contents
 
 - [Algebra](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Algebra)
 - [Arithmetic](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Arithmetic)
@@ -119,13 +121,13 @@ When raising an issue, do make sure to mention the kind of script, project title
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-<h2>🌱Pre-requisites</h2>
+## 🌱 Pre-requisites
 
 - Python IDE : Install it by using this link [python.org](https://www.python.org/downloads/)
 - If you are new to python programming and want to have a fair knowledge before you start working on it, you can learn it in a simplified way through this [repo](https://github.com/prathimacode-hub/Learn-Python-For-Beginners).  
 
 
-<h2>⚙️ Things to Note</h2>
+## ⚙️ Things to Note
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
@@ -136,7 +138,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 * Do not update the **[README.md](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/README.md).**
 
 
-<h2>📝Project Structure</h2>
+## 📝 Project Structure
 
 Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
 
@@ -175,7 +177,7 @@ The project repository you had created would have :
 Elaborate your **README** briefly about how it works by showing step by step procedure.
 
 
-<h2>🛠Templates to Follow</h2>
+## 🛠 Templates to Follow
 
 - [Feature request](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/issue_template/feature_request.md)
 - [Bug Report](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/.github/issue_template/bug_report.md)
@@ -185,7 +187,7 @@ Elaborate your **README** briefly about how it works by showing step by step pro
 **Note** : One should follow these templates while creating a new issue or pull request. 
 
 
-<h2>👨‍💻 Workflow:</h2>
+## 👨‍💻 Workflow:
 
 - Fork the repository
 
@@ -200,23 +202,30 @@ Elaborate your **README** briefly about how it works by showing step by step pro
 > print("Start contributing for **PyAlgo-Tree**")
 
 
-<h2>👍OpenSource Program</h2>
-
-This project was a part of this open source program.
-
+ ## ❄️ Open Source Programs
+ 
 <table>
 <tr>
- <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://user-images.githubusercontent.com/54024433/125442861-013b33c2-35c1-46b0-8390-d6a6e2f038ab.jpg" width=150px height=150px /></a> 
+ <td align="center">
+<a href="https://hacktoberfest.digitalocean.com/"><img src="" width=100px height=100px /><br /><sub><b>Hacktoberfest 2021</b></sub></a>
  </td>
- <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Hacktober%20Fest/Hacktoberfest-2021.jpg" width=140px height=60px /></a>
+ <td align="center">
+<a href="https://contribute.devincept.com/"><img src="" width=100px height=100px /><br /><sub><b>DevIncept Codes 2021</b></sub></a>
  </td>
 </tr>
 </table>
 
 
-<h2>✨Hall Of Fame</h2>   
+## 📊 Leaderboard 
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/DCP_SCORCARD.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>DevIncept Codes 2021</b></sub></a></td>
+  </tr>
+</table>
+
+
+## ✨ Hall Of Fame
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
 
@@ -233,17 +242,17 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-<h2>📜 Code Of Conduct</h2>
+## 📜 Code Of Conduct
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/CODE_OF_CONDUCT.md).
 
 
-<h2> 📝License</h2>
+## 📝 License
 
-This project follows the MIT [License](LICENSE)
+This project follows the MIT [License](https://github.com/prathimacode-hub/PyAlgo-Tree/blob/main/LICENSE)
 
 
-<h2>✔Project Maintainer</h2>
+## ✔ Project Maintainer
 
 <table>
   <tr>
@@ -252,20 +261,23 @@ This project follows the MIT [License](LICENSE)
 </table>
 
 
-<h2> 😎 Project Admin</h2>
+## 😎 Project Admin
 
-<a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width=100px height=100px /></a>
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+  </tr>
+</table>
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 
-<h2>🌟 Stargazers Over Time 🌟</h2>
+## 🌟 Stargazers Over Time 🌟
 
 [![Stargazers over time](https://starchart.cc/prathimacode-hub/PyAlgo-Tree.svg)](https://starchart.cc/prathimacode-hub/PyAlgo-Tree)
 
 
-<h2>⭐Give this Project a Star</h2>
+## ⭐ Give this Project a Star
 
 [![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
@@ -273,11 +285,13 @@ If you like this project, consider giving a ⭐ to this project and share it as 
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
-<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
-</td>
+<!-- <sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
+</td> 
+
+<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br> -->
 
 
-<h2>📬 Contact</h2>
+## 📬 Contact
 
 If you want to contact me, you can reach me through social handles.
 
