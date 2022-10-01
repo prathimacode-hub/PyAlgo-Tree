@@ -37,3 +37,4 @@ graph = {
  ```python
  Depth-first search: [0, 2, 1, 3, 4]
  ```
+ <img width=50% src="../DFS/Images/output.jpg"> 
