@@ -19,6 +19,8 @@ Time complexity of DFS is `O(V+|E|)`, where V is the number of vertices and E is
 The space complexity of the DFS algorithm is `O(V)`, where V is the number of vertices.
 
 ## Input & Output:
+<img src="../DFS/Images/dfs.jpg"> 
+
 ### Input:
 
 ```python
