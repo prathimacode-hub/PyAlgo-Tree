@@ -21,6 +21,8 @@ The algorithm works as follows:
 ## Input & Output
 ### Input:
 
+ <img width=50% src="../BFS/Images/input.jpg"> 
+
 ```python
 graph = {
     'A': ['B', 'C', 'D'],
@@ -31,6 +33,8 @@ graph = {
 }
 ```
 ### Output:
+ <img width=50% src="../BFS/Images/output.jpg"> 
+ 
 ```python
 Breadth-first Search: A B C D E
 ```
