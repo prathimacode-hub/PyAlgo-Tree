@@ -2,7 +2,7 @@
 Two techniques are frequently used for graph traversal: These techniques are called depth-first search (DFS) and breadth-first search (BFS), although we will just talk about BFS. Breadth-first search (BFS) is used to solve many problems, including finding the shortest path in a graph or solving puzzle games such as Rubik’s Cubes.
 
 ## What is Breadth First Search in Python?
-Breadth-first search (BFS) is an algorithm for traversing graphs or trees. Breath-first search for trees and graphs are almost the same. BFS uses a queue data structure for finding the shortest path in a graph.
+Breadth-first search (BFS) is an algorithm for traversing graphs or trees. Breath-first search for trees and graphs are almost the same. BFS uses a queue data structure for finding the shortest path in a graph. We use queue to get the next vertex to start the search, and the visited array is used to mark all the nodes that have been visited, so when it appears again, we will perform BFS on that node.
 
 ## Algorithm of DFS in Python
 The algorithm works as follows:
@@ -17,6 +17,12 @@ The algorithm works as follows:
 ## Time & Space Complexity
 * Time complexity is `O(V+E)`, where V denotes the number of vertices and E denotes the number of edges. 
 * Space complexity is `O(V)`.
+
+## Applications of Breadth First Search
+* Crawlers in Search Engines
+* Peer-to-Peer Networking
+* GPS Navigation Systems
+* Ford-Fulkerson algorithm
 
 ## Input & Output
 ### Input:
