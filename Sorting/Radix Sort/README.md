@@ -34,12 +34,12 @@ After implementing Radix Sort algorithm...
 ## 📊 Flowchart
 ```
 radixSort(arr)  
-max = largest element in the given array  
-d = number of digits in the largest element (or, max)  
-Now, create d buckets of size 0 - 9  
-for i -> 0 to d  
-sort the array elements using counting sort (or any stable sort) according to the digits at  
-the ith place  
+  max = largest element in the given array  
+  d = number of digits in the largest element (or, max)  
+  Now, create d buckets of size 0 - 9  
+  for i -> 0 to d  
+    sort the array elements using counting sort (or any stable sort) according to the digits at  
+    the ith place  
 ```
 
 ## 🧮 Algorithm
@@ -55,28 +55,46 @@ The Input array is given as,
 ```
 [170, 45, 75, 90, 802, 24, 2, 66]
 ```
+In the given array, the largest element is `802` that have `3` digits in it. So, the loop will run up to three times (i.e., to the hundreds place). That means three passes are required to sort the array.
+
+Now, first sort the elements on the basis of unit place digits (i.e., `x = 0`). Here, we are using the counting sort algorithm to sort the elements.
+
+- **Pass 1**: In the first pass, the list is sorted on the basis of the digits at 0's place.
+```
+[170, 90, 802, 2, 24, 45, 75, 66]
+```
+- **Pass 2**: In this pass, the list is sorted on the basis of the next significant digits (i.e., digits at 10th place).
+```
+[2, 802, 24, 45, 66, 75, 170, 90]
+```
+- **Pass 3**: In this pass, the list is sorted on the basis of the next significant digits (i.e., digits at 100th place).
+```
+[2, 24, 45, 66, 75, 90, 170, 802]
+```
+Now, the array is sorted in ascending order. The final result is,
+```
+[2, 24, 45, 66, 75, 90, 170, 802]
+```
 
 ## 💻 Input and Output 
 - **Test Case 1 :**
 ```
 Input Given :
-s = [1 , 3 , 0 , 5 , 8 , 5]
-f = [2 , 4 , 6 , 7 , 9 , 9]
+arr = [170, 45, 75, 90, 802, 24, 2, 66]
 ```
 
-![](https://github.com/abhisheks008/PyAlgo-Tree/blob/main/Greedy/Activity%20Selection%20Problem/Images/asp-1.png)
+![](https://github.com/abhisheks008/PyAlgo-Tree/blob/main/Sorting/Radix%20Sort/Images/radix-sort-2.png)
 
 - **Test Case 2 :**
 ```
 Input Given :
-s = [1, 2, 3, 4, 7, 8, 9, 9, 11, 12]
-f = [3, 5, 4, 7, 10, 9, 11, 13, 12, 14]
+arr = [181, 289, 390, 121, 145, 736, 514, 888, 122]
 ```
-![](https://github.com/abhisheks008/PyAlgo-Tree/blob/main/Greedy/Activity%20Selection%20Problem/Images/asp-2.png)
+![](https://github.com/abhisheks008/PyAlgo-Tree/blob/main/Sorting/Radix%20Sort/Images/radix-sort-1.png)
 
 ## ⏰ Time and Space complexity
-- **Time Complexity :** `O(n)`.
-- **Space Complexity :** `O(1)`.
+- **Time Complexity :** `O(n+k)`.
+- **Space Complexity :** `O(n+k)`.
 
 ---------------------------------------------------------------
 ## 🖋️ Author
