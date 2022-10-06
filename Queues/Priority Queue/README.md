@@ -1,4 +1,6 @@
-<img src="../Priority Queue/Images/priority.jpg">
+<p align='center'>
+<img width=60% src="../Priority Queue/Images/priority.jpg">
+</p>
 
 ## Overview:
 A unique kind of queue called a priority queue has elements that are each assigned a priority value. Additionally, components are treated according to their importance. In other words, more important factors come first.
