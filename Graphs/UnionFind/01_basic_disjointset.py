@@ -18,12 +18,13 @@ class UnionFind:
     
     # union connects two nodes with a left bias meaning that b will always 
     # connect to a 
-    def union(self,a,b): 
-        # Basically we want to take the parent node of the given thing
-        fa = self.find(a)
-        fb = self.find(b)
-        if fa != fb: 
-            self.root[fa] = fb
+    def union(self, x, y):
+        rootX = self.find(x)
+        rootY = self.find(y)
+        if rootX != rootY:
+            for i in range(len(self.root)):
+                if self.root[i] == rootY:
+                    self.root[i] = rootX
 
     # takes in a node a and returns the root node of such
     def find(self, a): 
@@ -31,14 +32,12 @@ class UnionFind:
             a = self.root[a]
         return a 
 
-uu = UnionFind(10)
+uu = UnionFind(6)
 
 print(uu.root)
 uu.union(0,1)
-uu.union(0,2)
-uu.union(1,3)
-uu.union(4,8)
-uu.union(5,6)
-uu.union(5,7)
+uu.union(4,5)
+uu.union(1,4)
+
 print(uu.root)
-print([i for i in range(10)])
+#print([i for i in range(6)])
